@@ -19,9 +19,12 @@ jobs:
       - name: Restore final bundled-runtime packaging
         shell: pwsh
         run: ./verification/package-self-contained.ps1
-      - name: Isolated portable and per-user installation test
+      - name: Isolated portable, Program Files installation and migration test
         shell: pwsh
         run: ./verification/test-self-contained.ps1
+      - name: Installer wizard capture
+        shell: pwsh
+        run: ./verification/installer-wizard-capture.ps1
       - name: Interactive regression on bundled-runtime build
         shell: pwsh
         run: ./verification/ui-interactions.ps1
@@ -34,6 +37,6 @@ jobs:
           name: SakhrDictionaryRevive-build
           path: |
             out/
-            SakhrDictionaryRevive-v1.0.2-portable-win-x64.zip
-            SakhrDictionaryRevive-v1.0.2-full-offline-win-x64.zip
+            SakhrDictionaryRevive-v1.0.3-portable-win-x64.zip
+            SakhrDictionaryRevive-v1.0.3-full-offline-win-x64.zip
             evidence/

@@ -51,7 +51,7 @@ The Light/Apple and Dark/Home screenshots above were supplied by the developer. 
 
 ## Download
 
-Three Windows x64 packages: portable ZIP, per-user installer, and full offline ZIP containing the installer plus optional Microsoft runtime installers. Runtime files are bundled with the app. No separate runtime installation or administrator rights are needed for the per-user installer. Choose the package from the release page below.
+Three Windows x64 packages: portable ZIP, installer, and full offline ZIP containing the installer plus optional Microsoft runtime installers. Runtime files are bundled with the app, so no separate runtime installation is needed. The installer requires administrator rights and installs into Program Files, replacing any earlier installation. Choose the package from the release page below.
 
 ```text
 https://github.com/StarsDust01/Sakhr-Dictionary-Revive/releases

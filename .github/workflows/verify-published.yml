@@ -15,8 +15,8 @@ jobs:
         shell: pwsh
         run: |
           $release=Invoke-RestMethod https://api.github.com/repos/StarsDust01/Sakhr-Dictionary-Revive/releases/latest
-          if($release.tag_name -ne 'v1.0.2'){throw 'Unexpected latest release'}
-          $asset=$release.assets|Where-Object name -eq 'SakhrDictionaryRevive-v1.0.2-portable-win-x64.zip'
+          if($release.tag_name -ne 'v1.0.3'){throw 'Unexpected latest release'}
+          $asset=$release.assets|Where-Object name -eq 'SakhrDictionaryRevive-v1.0.3-portable-win-x64.zip'
           Invoke-WebRequest $asset.browser_download_url -OutFile portable.zip
           if("sha256:$((Get-FileHash portable.zip -Algorithm SHA256).Hash.ToLower())" -ne $asset.digest){throw 'Published asset digest mismatch'}
           Expand-Archive portable.zip publish
@@ -25,7 +25,7 @@ jobs:
         run: |
           ./verification/ui-interactions.ps1
           $text=Get-Content evidence/ui-interactions.txt -Raw
-          if($text -notmatch "You're up to date \(v1\.0\.2\)"){throw "Unexpected update result: $text"}
+          if($text -notmatch "You're up to date \(v1\.0\.3\)"){throw "Unexpected update result: $text"}
       - uses: actions/upload-artifact@v4
         if: always()
         with:

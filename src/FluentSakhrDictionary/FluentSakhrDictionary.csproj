@@ -18,7 +18,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <ApplicationIcon>app.ico</ApplicationIcon>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Product>Sakhr Dictionary Revive</Product>
     <Company>Mohamed Elnaggar</Company>
     <Authors>Mohamed Elnaggar</Authors>

@@ -11,14 +11,13 @@ foreach($file in @('coreclr.dll','hostfxr.dll','Microsoft.WinUI.dll','Microsoft.
 Copy-Item LICENSE publish/LICENSE.txt
 Copy-Item data/LICENSE-wiktionary-ar.txt publish/LICENSE-wiktionary-ar.txt
 @'
-Sakhr Dictionary Revive 1.0.2 - x64
+Sakhr Dictionary Revive 1.0.3 - x64
 Extract all files together before launching SakhrDictionaryRevive.exe.
 .NET, Windows App SDK and VC runtime files are bundled.
-The installer installs for the current user without administrator rights.
+The installer installs into Program Files and requires administrator rights.
 brought to you by Instinct - https://instinct.com
 '@|Set-Content publish/README.txt -Encoding utf8
-# Use the recovered per-user Inno spec with root-relative paths as originally generated.
-Copy-Item installer/recovered-per-user.iss self-contained.iss
-& "${env:ProgramFiles(x86)}/Inno Setup 6/ISCC.exe" self-contained.iss
+Copy-Item installer/setup.iss setup-tmp.iss
+& "${env:ProgramFiles(x86)}/Inno Setup 6/ISCC.exe" setup-tmp.iss
 if($LASTEXITCODE -ne 0){throw 'Inno installer build failed'}
-Compress-Archive -Path publish/* -DestinationPath SakhrDictionaryRevive-v1.0.2-portable-win-x64.zip -Force
+Compress-Archive -Path publish/* -DestinationPath SakhrDictionaryRevive-v1.0.3-portable-win-x64.zip -Force
