@@ -25,7 +25,7 @@ Compress-Archive offline/* SakhrDictionaryRevive-v1.0.2-full-offline-win-x64.zip
 Expand-Archive SakhrDictionaryRevive-v1.0.2-full-offline-win-x64.zip offline-test -Force
 $p=Start-Process ./offline-test/Install.exe -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART' -Wait -PassThru
 if($p.ExitCode -ne 0){throw 'Offline kit installation failed'}
-$root="$env:LOCALAPPDATA/Programs/SakhrDictionaryRevive-SelfContained"
+$root=Join-Path $env:LOCALAPPDATA 'Programs\SakhrDictionaryRevive-SelfContained'
 $p=Start-Process "$root/SakhrDictionaryRevive.exe" -ArgumentList '--screenshot',"$PWD/evidence/offline-installed.png",'--shot-word','CAT' -PassThru
 if(!$p.WaitForExit(90000)){Stop-Process -Id $p.Id -Force;throw 'Offline installed capture timed out'}
 if(!(Test-Path evidence/offline-installed.png)){throw 'Offline installed capture missing'}

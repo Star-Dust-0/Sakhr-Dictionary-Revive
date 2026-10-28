@@ -22,7 +22,7 @@ foreach($i in 1..2){
  $p=Start-Process $installer -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART' -PassThru -Wait
  if($p.ExitCode -ne 0){throw "Per-user install exit $($p.ExitCode)"}
 }
-$root="$env:LOCALAPPDATA/Programs/SakhrDictionaryRevive-SelfContained"
+$root=Join-Path $env:LOCALAPPDATA 'Programs\SakhrDictionaryRevive-SelfContained'
 if(!(Test-Path "$root/SakhrDictionaryRevive.exe")){throw 'Per-user install missing'}
 $registry='HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\SakhrDictionaryRevive-SelfContained_is1'
 $reg=Get-ItemProperty $registry
