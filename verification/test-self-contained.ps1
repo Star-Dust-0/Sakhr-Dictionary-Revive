@@ -1,7 +1,8 @@
 $ErrorActionPreference='Stop'
 New-Item -ItemType Directory -Force evidence|Out-Null
-Get-AppxPackage '*WindowsAppRuntime*'|Remove-AppxPackage -ErrorAction Stop
-if(Get-AppxPackage '*WindowsAppRuntime*'){throw 'Runner shared Windows App Runtime remains'}
+# Appx module requires Windows PowerShell, not PowerShell 7 on this runner.
+& powershell.exe -NoProfile -Command '$ErrorActionPreference="Stop"; Get-AppxPackage "*WindowsAppRuntime*"|Remove-AppxPackage -ErrorAction Stop; if(Get-AppxPackage "*WindowsAppRuntime*"){throw "Shared Windows App Runtime remains"}'
+if($LASTEXITCODE -ne 0){throw 'Shared runtime removal check failed'}
 $env:DOTNET_MULTILEVEL_LOOKUP='0'
 $env:DOTNET_ROOT="$env:RUNNER_TEMP/no-shared-dotnet"
 New-Item -ItemType Directory -Force $env:DOTNET_ROOT|Out-Null
@@ -23,9 +24,20 @@ foreach($i in 1..2){
 }
 $root="$env:LOCALAPPDATA/Programs/SakhrDictionaryRevive-SelfContained"
 if(!(Test-Path "$root/SakhrDictionaryRevive.exe")){throw 'Per-user install missing'}
+$registry='HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\SakhrDictionaryRevive-SelfContained_is1'
+$reg=Get-ItemProperty $registry
+if($reg.DisplayName -ne 'Sakhr Dictionary Revive' -or $reg.DisplayVersion -ne '1.0.2'){throw 'Per-user registry identity/version mismatch'}
+foreach($folder in @([Environment]::GetFolderPath('Desktop'),[Environment]::GetFolderPath('Programs'))){
+ $link=Join-Path $folder 'Sakhr Dictionary Revive.lnk'
+ if(!(Test-Path $link)){throw 'Clean-name shortcut missing'}
+ $shortcut=(New-Object -ComObject WScript.Shell).CreateShortcut($link)
+ if($shortcut.TargetPath -ne "$root\SakhrDictionaryRevive.exe"){throw 'Wrong per-user shortcut target'}
+ if(Test-Path (Join-Path $folder 'Sakhr Dictionary Revive (Self-contained).lnk')){throw 'Stale shortcut remains'}
+}
 $p=Start-Process "$root/SakhrDictionaryRevive.exe" -ArgumentList '--screenshot',"$PWD/evidence/installed.png",'--shot-word','CAT' -PassThru
 if(!$p.WaitForExit(90000)){Stop-Process -Id $p.Id -Force;throw 'Installed capture timed out'}
 if(!(Test-Path evidence/installed.png)){throw 'Installed capture missing'}
 $p=Start-Process "$root/unins000.exe" -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART' -Wait -PassThru
 if($p.ExitCode -ne 0 -or(Test-Path "$root/SakhrDictionaryRevive.exe")){throw 'Per-user uninstall failed'}
+if(Test-Path $registry){throw 'Per-user uninstall registry remains'}
 'PASS isolated app-local runtime portable launch, per-user install/reinstall, installed capture and uninstall'|Set-Content evidence/self-contained-tests.txt

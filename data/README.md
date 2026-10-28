@@ -9,3 +9,8 @@ The legacy data files use Windows-1256 for Arabic. The English word list is
 stored as plain text; the Arabic meanings are materialized at lookup time by
 the original program's engine, so they are extracted dynamically on a Windows
 runner (see `extraction/`).
+
+
+## Recovered source status
+
+The paragraphs above are recovered original extraction notes. `legacy/sakhr.7z` and `words.txt` are not included in this recovered source. The app uses the seven final JSONL datasets recovered byte-for-byte from the shipped v1.0.2 backup; see `../verification/data-sha256.txt` and `LICENSE-wiktionary-ar.txt`. No claim is made that the missing legacy archive was recovered.
