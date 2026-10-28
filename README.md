@@ -39,13 +39,13 @@ capabilities the original program never had.
 
 | Light | Dark |
 | --- | --- |
-| ![Light theme](docs/screenshots/app-light.png) | ![Dark theme](docs/screenshots/app-dark.png) |
+| ![Light theme, Apple lookup](docs/screenshots/owner-light-apple.jpg) | ![Dark theme, home](docs/screenshots/owner-dark-home.jpg) |
 
 | Arabic search | Settings |
 | --- | --- |
 | ![Arabic search](docs/screenshots/app-arabic.png) | ![Settings](docs/screenshots/app-settings.png) |
 
-These are new Windows verification captures of the recovered app, not the lost original documentation images.
+The Light/Apple and Dark/Home screenshots above were supplied by the developer. The Arabic-search and Settings screenshots are new Windows verification captures of the recovered app, not the lost original documentation images.
 
 ## Download
 
