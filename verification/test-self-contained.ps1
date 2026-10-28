@@ -102,6 +102,14 @@ $p=Start-Process $installer -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NO
 if($p.ExitCode -ne 0){throw "Reinstall exit $($p.ExitCode)"}
 $entries=@(Get-ChildItem 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall'|Where-Object {$_.PSChildName -like 'SakhrDictionaryRevive*' -or $_.PSChildName -like 'FluentSakhr*'})
 if($entries.Count -ne 1 -or $entries[0].PSChildName -ne 'SakhrDictionaryRevive_is1'){throw "Unexpected uninstall entries: $($entries.PSChildName -join ',')"}
+# The desktop shortcut option is honored both ways.
+$commonDesktop=[Environment]::GetFolderPath('CommonDesktopDirectory')
+$p=Start-Process $installer -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART','/TASKS=!desktopicon' -PassThru -Wait
+if($p.ExitCode -ne 0){throw "Task-disabled install exit $($p.ExitCode)"}
+if(Test-Path (Join-Path $commonDesktop 'Sakhr Dictionary Revive.lnk')){throw 'Desktop icon created despite the task being disabled'}
+$p=Start-Process $installer -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART' -PassThru -Wait
+if($p.ExitCode -ne 0){throw "Default reinstall exit $($p.ExitCode)"}
+if(!(Test-Path (Join-Path $commonDesktop 'Sakhr Dictionary Revive.lnk'))){throw 'Desktop icon missing after default install'}
 # Installed app launches and renders.
 $p=Start-Process "$programFilesRoot/SakhrDictionaryRevive.exe" -ArgumentList '--screenshot',"$PWD/evidence/installed.png",'--shot-word','CAT' -PassThru
 if(!$p.WaitForExit(90000)){Stop-Process -Id $p.Id -Force;throw 'Installed capture timed out'}
@@ -112,4 +120,4 @@ if($p.ExitCode -ne 0 -or(Test-Path "$programFilesRoot/SakhrDictionaryRevive.exe"
 if(Test-Path $hklmNewKey){throw 'Admin uninstall registry remains'}
 if(!(Test-Path (Join-Path $state 'settings.json'))){throw 'Settings removed by uninstall'}
 Remove-Item (Join-Path $state 'settings.json') -Force
-'PASS migration from per-user and both legacy admin installs, Program Files install/reinstall, clean identity and shortcuts, settings preserved, installed capture and uninstall'|Set-Content evidence/self-contained-tests.txt
+'PASS migration from per-user and both legacy admin installs, Program Files install/reinstall, clean identity and shortcuts, desktop-option both states, settings preserved, installed capture and uninstall'|Set-Content evidence/self-contained-tests.txt
