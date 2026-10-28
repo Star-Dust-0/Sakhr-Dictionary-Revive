@@ -1,7 +1,6 @@
 # Sakhr Dictionary Revive
 
 The classic Sakhr Dictionary reborn as a modern Windows app.
-[النسخة العربية](README.ar.md)
 
 ## The story
 
@@ -42,13 +41,11 @@ capabilities the original program never had.
 | --- | --- |
 | ![Light theme](docs/screenshots/app-light.png) | ![Dark theme](docs/screenshots/app-dark.png) |
 
-| Arabic search | English inflection redirect |
+| Arabic search | Settings |
 | --- | --- |
-| ![Arabic search](docs/screenshots/app-arabic.png) | ![English inflection redirect](docs/screenshots/app-inflection.png) |
+| ![Arabic search](docs/screenshots/app-arabic.png) | ![Settings](docs/screenshots/app-settings.png) |
 
-| Arabic inflection redirect | Settings |
-| --- | --- |
-| ![Arabic inflection redirect](docs/screenshots/app-inflection-ar.png) | ![Settings](docs/screenshots/app-settings.png) |
+These are new Windows verification captures of the recovered app, not the lost original documentation images.
 
 ## Download
 
@@ -65,9 +62,7 @@ the ancestor of the 1996 Windows version this project revives, and the
 dictionary whole generations grew up with. Photos from the developer's own
 copy.
 
-| Front | Back |
-| --- | --- |
-| ![Front of the original Sakhr Dictionary box, MSX Al-Alamiah edition 1987](docs/box-front.jpg) | ![Back of the original Sakhr Dictionary box, MSX Al-Alamiah edition 1987](docs/box-back.jpg) |
+The original front/back photographs were located in the historical message record, but their stored image bytes have not yet been recovered. They are not replaced with generated photos.
 
 ## The data
 

@@ -1,3 +1,5 @@
+> Historical October 9 README recovered verbatim. Packaging, account links and screenshot paths below describe that date, not the current build. See ../../README.md for current information.
+
 <p dir="rtl" align="right"><b>قاموس صخر الحديث</b></p>
 <p dir="rtl" align="right">تطبيق قاموس صخر - إعادة احياء لبرنامج قاموس صخر الأصلي الصادر سنة 1996</p>
 <p dir="rtl" align="right"><a href="README.en.md">English version</a></p>

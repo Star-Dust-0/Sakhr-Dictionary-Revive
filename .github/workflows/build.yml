@@ -22,6 +22,9 @@ jobs:
       - name: Isolated portable and per-user installation test
         shell: pwsh
         run: ./verification/test-self-contained.ps1
+      - name: Full offline archive verification
+        shell: pwsh
+        run: ./verification/build-full-offline.ps1
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -29,4 +32,5 @@ jobs:
           path: |
             out/
             SakhrDictionaryRevive-v1.0.2-portable-win-x64.zip
+            SakhrDictionaryRevive-v1.0.2-full-offline-win-x64.zip
             evidence/

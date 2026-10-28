@@ -14,3 +14,9 @@ verification/original-v1.0.2/*.dll
 verification/original-v1.0.2/*.exe
 verification/original-v1.0.2/*.json
 verification/original-v1.0.2/*.pri
+
+out/
+offline/
+offline-test/
+self-contained.iss
+SakhrDictionaryRevive-v*-win-x64.zip
