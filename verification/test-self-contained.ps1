@@ -107,9 +107,11 @@ $commonDesktop=[Environment]::GetFolderPath('CommonDesktopDirectory')
 $p=Start-Process $installer -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART','/TASKS=!desktopicon' -PassThru -Wait
 if($p.ExitCode -ne 0){throw "Task-disabled install exit $($p.ExitCode)"}
 if(Test-Path (Join-Path $commonDesktop 'Sakhr Dictionary Revive.lnk')){throw 'Desktop icon created despite the task being disabled'}
-$p=Start-Process $installer -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART' -PassThru -Wait
-if($p.ExitCode -ne 0){throw "Default reinstall exit $($p.ExitCode)"}
-if(!(Test-Path (Join-Path $commonDesktop 'Sakhr Dictionary Revive.lnk'))){throw 'Desktop icon missing after default install'}
+# Inno remembers the last task selection on reinstall, so re-enable explicitly here;
+# the default-checked state was already proven by the first fresh install above.
+$p=Start-Process $installer -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART','/TASKS=desktopicon' -PassThru -Wait
+if($p.ExitCode -ne 0){throw "Reinstall exit $($p.ExitCode)"}
+if(!(Test-Path (Join-Path $commonDesktop 'Sakhr Dictionary Revive.lnk'))){throw 'Desktop icon missing after explicit-task reinstall'}
 # Installed app launches and renders.
 $p=Start-Process "$programFilesRoot/SakhrDictionaryRevive.exe" -ArgumentList '--screenshot',"$PWD/evidence/installed.png",'--shot-word','CAT' -PassThru
 if(!$p.WaitForExit(90000)){Stop-Process -Id $p.Id -Force;throw 'Installed capture timed out'}
