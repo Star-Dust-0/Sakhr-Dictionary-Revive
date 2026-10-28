@@ -1,0 +1,33 @@
+name: Verify published updater
+on:
+  push:
+    paths: ['.github/workflows/verify-published.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: windows-2022
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download exact published portable and verify digest
+        shell: pwsh
+        run: |
+          $release=Invoke-RestMethod https://api.github.com/repos/StarsDust01/Sakhr-Dictionary-Revive/releases/latest
+          if($release.tag_name -ne 'v1.0.2'){throw 'Unexpected latest release'}
+          $asset=$release.assets|Where-Object name -eq 'SakhrDictionaryRevive-v1.0.2-portable-win-x64.zip'
+          Invoke-WebRequest $asset.browser_download_url -OutFile portable.zip
+          if("sha256:$((Get-FileHash portable.zip -Algorithm SHA256).Hash.ToLower())" -ne $asset.digest){throw 'Published asset digest mismatch'}
+          Expand-Archive portable.zip publish
+      - name: Real published-build update check
+        shell: pwsh
+        run: |
+          ./verification/ui-interactions.ps1
+          $text=Get-Content evidence/ui-interactions.txt -Raw
+          if($text -notmatch "You're up to date \(v1\.0\.2\)"){throw "Unexpected update result: $text"}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: published-updater-check
+          path: evidence/
