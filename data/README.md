@@ -1,16 +1,7 @@
-# Data
+# Dictionary data
 
-- `legacy/sakhr.7z` - the original Sakhr Dictionary (قاموس صخر الجديد, "New
-  Version 2006/2007") program archive, kept untouched as the source of truth.
-- `words.txt` - the 59,427 English lemmas extracted from `GROUP.ENG` by
-  `tools/extract_words.py` (stage 1 of the data pipeline).
+The app uses seven bundled JSONL datasets: dictionary, wiktionary-ar, inflections-en, inflections-ar, translations-en-ar, translations-supplement and derived-forms. These final datasets were recovered byte-for-byte from the shipped v1.0.2 app.
 
-The legacy data files use Windows-1256 for Arabic. The English word list is
-stored as plain text; the Arabic meanings are materialized at lookup time by
-the original program's engine, so they are extracted dynamically on a Windows
-runner (see `extraction/`).
+Checksums: [data-sha256.txt](../verification/data-sha256.txt). English-Arabic entries come from the original Sakhr dictionary. Wiktionary-derived data and inflection tables are attributed to English Wiktionary through kaikki.org/wiktextract and licensed CC BY-SA 4.0; see [LICENSE-wiktionary-ar.txt](LICENSE-wiktionary-ar.txt). Application source is MIT licensed separately.
 
-
-## Recovered source status
-
-The paragraphs above are recovered original extraction notes. `legacy/sakhr.7z` and `words.txt` are not included in this recovered source. The app uses the seven final JSONL datasets recovered byte-for-byte from the shipped v1.0.2 backup; see `../verification/data-sha256.txt` and `LICENSE-wiktionary-ar.txt`. No claim is made that the missing legacy archive was recovered.
+No original-program reference binaries or legacy extraction tooling are needed to build or run the app.

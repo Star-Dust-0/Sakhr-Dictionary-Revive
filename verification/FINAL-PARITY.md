@@ -37,3 +37,9 @@ Release artifact SHA-256:
 - full offline: bf237cdc8e79dccf4b8f9d732dda82ec11310ba56bc3cb2a9d34a7af26f6881b
 
 Artifacts are taken unchanged from successful run 40761647931. Subsequent source changes before publication affect only README/icon/photo documentation, not app, installer, packaging or test code.
+
+## Published updater and source cleanup
+
+The exact published portable asset passed a fresh anonymous SHA-256 check and the real UI regression. The update button returned "You're up to date (v1.0.2)." Run: https://github.com/StarsDust01/Sakhr-Dictionary-Revive/actions/runs/40762793931
+
+The working tree is one current codebase. Superseded installer source, old extraction utilities, reference-binary comparison harnesses, historical recovery notes, temporary checklist and unused generated Light/Dark screenshots were removed after owner approval. Final application source, seven runtime datasets, original icons, licenses, current Inno installer, active regression tests/workflows and README images remain. Published release assets/tags and Git history are unchanged.
