@@ -1,52 +1,120 @@
 # Sakhr Dictionary Revive
 
-A Windows English-Arabic dictionary with a native WinUI 3 interface, Arabic and English UI, light/dark themes, Mica/Acrylic backdrops and customizable accent colors.
+The classic Sakhr Dictionary reborn as a modern Windows app.
+[النسخة العربية](README.ar.md)
 
-brought to you by Instinct
+## The story
+
+In 1996, Sakhr released the Sakhr Dictionary for Windows, the successor of
+an even older 1987 edition for MSX Al-Alamiah machines. Whole generations
+across the Arab world grew up with it; for many of us it was the first
+electronic dictionary we ever knew.
+
+Today the dictionary comes back to life as a modern Windows app. It carries
+the complete original data, extracted from the user's own copy of the 1996
+program, and presents it in a native WinUI 3 (Fluent) interface, with new
+capabilities the original program never had.
 
 ## Features
 
-- Offline English lookup over 59,427 dictionary entries and Arabic reverse lookup.
-- Original Sakhr meanings are kept separate from optional Wiktionary results.
-- Word inflections, instant suggestions and full Arabic right-to-left layout.
-- Optional Wiktionary data is off by default.
-- Manual update checks only. The update source is [StarsDust01/Sakhr-Dictionary-Revive](https://github.com/StarsDust01/Sakhr-Dictionary-Revive).
-- Stable installer identity: new installs replace the existing app. Uninstall keeps personal settings.
+- **Instant search in both directions**: English -> Arabic and
+  Arabic -> English, from the very first letter, fully offline.
+- **The complete original data**: 59,427 English lemmas and 125,896 Arabic
+  meanings from the 1996 Sakhr dictionary, with Arabic diacritics rendered
+  correctly (something the original program itself could not do).
+- **Inflection redirect in both languages**: type an inflected form such as
+  ABANDONS, or a conjugated Arabic verb or plural, and the app takes you
+  straight to the base entry with a note naming the form
+  (ABANDONS <- ABANDON).
+- **Wiktionary Arabic data**: 36,627 Arabic entries from English
+  Wiktionary. Their meanings appear separately from the original Sakhr translation
+  in clearly labeled sections - the two sources never mix.
+- **Native modern interface**: Fluent design with a Mica backdrop, light
+  and dark themes, and full right-to-left Arabic support.
+- **Your accent color**: the default is teal (#00A6A6); pick any color you
+  like in Settings.
+- **Manual updates**: the app never checks for updates on its own - one
+  button in About checks when you ask it to.
 
-## Reconstructed source
+## Screenshots
 
-This project was reconstructed from the owner's shipped v1.0.2 application and recovered source. It is maintainable source, not a claim to recover lost comments or the exact original source text. Version 1.0.2 retains the original app identity and data. Intentional changes are the GitHub-account migration, a language-switch bug fix, and corrected installer version labels.
+| Light | Dark |
+| --- | --- |
+| ![Light theme](docs/screenshots/app-light.png) | ![Dark theme](docs/screenshots/app-dark.png) |
 
-Validation covers 17 core assertions, 61,321 original-managed-code differential comparisons, 92 Windows captures, actual UI interactions, and install/reinstall/uninstall checks. See [verification/STATUS.md](verification/STATUS.md) for the tested matrix and limits. High-DPI, multiple monitors and every possible Windows configuration are not claimed tested.
+| Arabic search | English inflection redirect |
+| --- | --- |
+| ![Arabic search](docs/screenshots/app-arabic.png) | ![English inflection redirect](docs/screenshots/app-inflection.png) |
 
-## Build
+| Arabic inflection redirect | Settings |
+| --- | --- |
+| ![Arabic inflection redirect](docs/screenshots/app-inflection-ar.png) | ![Settings](docs/screenshots/app-settings.png) |
 
-Requires Windows x64, .NET 8 SDK and NuGet access. Windows App SDK 1.6 packages are restored automatically.
+## Download
 
-```powershell
-dotnet run --project tests/CoreParity -c Release
-dotnet publish src/FluentSakhrDictionary/FluentSakhrDictionary.csproj -c Release -r win-x64 -p:Platform=x64 --self-contained false -p:WindowsAppSDKSelfContained=true -o publish
-./verification/build-installer.ps1
+Three Windows x64 packages: portable ZIP, per-user installer, and full offline ZIP containing the installer plus optional Microsoft runtime installers. Runtime files are bundled with the app. No separate runtime installation or administrator rights are needed for the per-user installer. Release is pending verification; no current download is claimed.
+
+```text
+https://github.com/StarsDust01/Sakhr-Dictionary-Revive/releases
 ```
 
-The installer checks for .NET 8, Visual C++ and Windows App Runtime requirements and downloads signed Microsoft installers if needed. A first install may need internet access. Dictionary use is offline.
+## The original
 
-## Data and license
+The box of the original **Sakhr Dictionary, MSX Al-Alamiah edition (1987)** -
+the ancestor of the 1996 Windows version this project revives, and the
+dictionary whole generations grew up with. Photos from the developer's own
+copy.
 
-Application source: MIT. Original Sakhr data was extracted from the owner's copy of the 1996 dictionary. Wiktionary-derived data: CC BY-SA 4.0, via Wiktextract/kaikki.org; see [data/LICENSE-wiktionary-ar.txt](data/LICENSE-wiktionary-ar.txt). The datasets retain their separate attribution.
+| Front | Back |
+| --- | --- |
+| ![Front of the original Sakhr Dictionary box, MSX Al-Alamiah edition 1987](docs/box-front.jpg) | ![Back of the original Sakhr Dictionary box, MSX Al-Alamiah edition 1987](docs/box-back.jpg) |
 
-Developer: Mohamed Elnaggar. Arabic recovered README is preserved as [README.ar.md](README.ar.md).
+## The data
 
-## Copy links
+`data/dictionary.jsonl` holds the full extracted dataset: 59,427 records
+aligned 1:1 with the original program's English word list, with the Arabic
+meanings captured from the 1996 program itself. 45,693 lemmas resolve to
+meanings; the rest are rare inflections and proper nouns absent from the
+original program's own search index. The original legacy archive is not included in this recovered source.
+
+- **English -> Arabic:** the original 1996 Sakhr dictionary data,
+  extracted from the user's own copy.
+- **Arabic -> English and the inflection tables:** Arabic entries and
+  form-of relations from English Wiktionary, machine-extracted by
+  wiktextract and published at
+  [kaikki.org](https://kaikki.org/dictionary/Arabic/), licensed
+  [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (see
+  `data/LICENSE-wiktionary-ar.txt`).
+
+The application source code is MIT licensed; the Wiktionary-derived data
+ships under CC BY-SA 4.0 with attribution.
+
+## Build from source
+
+```
+dotnet publish src/FluentSakhrDictionary/FluentSakhrDictionary.csproj -c Release -r win-x64
+```
+
+Requires Windows and the .NET 8 SDK. NuGet restores Windows App SDK 1.6. The default publish is self-contained. See verification/FINAL-PARITY.md for the tested matrix and limits.
+
+## Credits
+
+Developer: Mohamed Elnaggar
+
+Contributors: app.instinct.com
+
+brought to you by Instinct
+
+## License
+
+MIT
+
+## Source recovery and validation
+
+The English README text was recovered from the October 9 original and then updated for the October 11 bundled-runtime packaging, account migration and current verification state. Images not yet recovered are not replaced with invented originals. Current screenshots can be generated by testing, but are identified as new captures. App logic is reconstructed from the shipped v1.0.2 managed code; datasets/icons are recovered byte-for-byte. Exact lost source comments and formatting are not claimed recovered.
 
 Repository:
 
 ```text
 https://github.com/StarsDust01/Sakhr-Dictionary-Revive
-```
-
-Release page (only usable when a release has been approved and published):
-
-```text
-https://github.com/StarsDust01/Sakhr-Dictionary-Revive/releases
 ```
