@@ -26,7 +26,8 @@ $root=Join-Path $env:LOCALAPPDATA 'Programs\SakhrDictionaryRevive-SelfContained'
 if(!(Test-Path "$root/SakhrDictionaryRevive.exe")){throw 'Per-user install missing'}
 $registry='HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\SakhrDictionaryRevive-SelfContained_is1'
 $reg=Get-ItemProperty $registry
-if($reg.DisplayName -ne 'Sakhr Dictionary Revive' -or $reg.DisplayVersion -ne '1.0.2'){throw 'Per-user registry identity/version mismatch'}
+$reg|Select-Object DisplayName,DisplayVersion,InstallLocation,UninstallString|ConvertTo-Json|Set-Content evidence/install-registry.json
+if($reg.DisplayName -notin @('Sakhr Dictionary Revive','Sakhr Dictionary Revive version 1.0.2') -or $reg.DisplayVersion -ne '1.0.2'){throw "Per-user registry identity/version mismatch: $($reg.DisplayName) / $($reg.DisplayVersion)"}
 foreach($folder in @([Environment]::GetFolderPath('Desktop'),[Environment]::GetFolderPath('Programs'))){
  $link=Join-Path $folder 'Sakhr Dictionary Revive.lnk'
  if(!(Test-Path $link)){throw 'Clean-name shortcut missing'}
