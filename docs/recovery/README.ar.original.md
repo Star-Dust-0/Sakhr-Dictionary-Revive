@@ -1,3 +1,5 @@
+<p align="center"><img src="../../src/FluentSakhrDictionary/app-icon-256.png" width="192" height="192" alt="Sakhr Dictionary Revive icon"></p>
+
 > Historical October 9 README recovered verbatim. Packaging, account links and screenshot paths below describe that date, not the current build. See ../../README.md for current information.
 
 <p dir="rtl" align="right"><b>قاموس صخر الحديث</b></p>

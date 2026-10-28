@@ -1,3 +1,5 @@
+<p align="center"><img src="src/FluentSakhrDictionary/app-icon-256.png" width="192" height="192" alt="Sakhr Dictionary Revive icon"></p>
+
 # Sakhr Dictionary Revive
 
 The classic Sakhr Dictionary reborn as a modern Windows app.
