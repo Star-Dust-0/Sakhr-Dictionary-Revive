@@ -20,8 +20,20 @@ Limits: high-DPI, multiple monitors, keyboard-only accessibility and all possibl
 
 The archived v1.0.2 backup contained an older framework-dependent/admin installer. Historical October 11 records show the later published release instead used fully bundled runtimes, per-user Inno Setup and three clean-named packages. The recovered per-user Inno spec preserves AppId SakhrDictionaryRevive-SelfContained and its LocalAppData install path. It is restored in installer/recovered-per-user.iss.
 
-The original English README was recovered from October 9, not rewritten from scratch, and updated for final packaging/account migration/current validation. Original box photo provenance and exact crops were recovered, but image bytes remain unavailable. Documentation screenshots are explicitly identified as new captures.
+The original English README was recovered from October 9, not rewritten from scratch, and updated for final packaging/account migration/current validation. Original box photographs and Light/Apple and Dark/Home screenshots were re-supplied by the developer and restored inline. New verification screenshots are labeled separately. The original recovered PNG icon is centered above the heading.
 
-Packaging verification is in progress: app-local .NET/WinUI/Windows App Runtime loading without the runner user's shared Windows App Runtime, per-user install/reinstall, installed screenshot, uninstall, and full-offline package signature/checksum/extraction tests. This section is not a claim that these checks have passed yet.
+Packaging verification passed: app-local .NET/WinUI/Windows App Runtime loading without the runner user's shared Windows App Runtime, per-user install/reinstall, installed screenshot, uninstall, and full-offline package signature/checksum/extraction tests. All checks below passed in the final bundled-runtime run.
 
-Current packaging run: https://github.com/StarsDust01/Sakhr-Dictionary-Revive/actions/runs/40760702820
+Current packaging run: https://github.com/StarsDust01/Sakhr-Dictionary-Revive/actions/runs/40761647931
+
+The final bundled-runtime run also repeated the real UI interaction regression: text entry/suggestion selection, navigation, single instance, theme/backdrop, Wiktionary persistence, custom color dialog/reset, actual Arabic/English switching, update-check completion and button re-enable. All passed. Installed and offline-installed screenshots were inspected directly and show the correct CAT result layout.
+
+Runtime evidence shows hostfxr, coreclr, Microsoft.WinUI and Microsoft.WindowsAppRuntime loaded from the app's own publish folder after shared Windows App Runtime removal. Per-user registry metadata, clean shortcuts, reinstall and full uninstall passed. Full offline archive extraction, Microsoft Authenticode checks and .NET SHA-512 passed.
+
+Release artifact SHA-256:
+
+- installer: 4ad9ecffebfa72902427a97ff31104786a8ac04487d62aad8bb6782d4c70bdd6
+- portable: ad6785c898db51a3f975b0485a2fab35782f0fb0feecc96140d9dcc0c3a27e0d
+- full offline: bf237cdc8e79dccf4b8f9d732dda82ec11310ba56bc3cb2a9d34a7af26f6881b
+
+Artifacts are taken unchanged from successful run 40761647931. Subsequent source changes before publication affect only README/icon/photo documentation, not app, installer, packaging or test code.

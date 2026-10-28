@@ -1,8 +1,8 @@
 # Source cleanup and publication record
 
-Main has not yet been changed. The owner made the repository public and later authorized releasing each fully verified app without another review gate. No existing release is to be deleted.
+This record was prepared before publication. The owner made the repository public and later authorized releasing each fully verified app without another review gate. No existing release is to be deleted.
 
-The temporary fixtures and reconstruction remote refs have been removed, together with twenty temporary Actions artifacts after local evidence preservation. Original binary references must not be reintroduced. A fresh all-ref scan is required before publishing.
+The temporary fixtures and reconstruction remote refs have been removed, together with twenty temporary Actions artifacts after local evidence preservation. Original binary references must not be reintroduced. All public refs are scanned again before publication.
 
 `release-ready` is based on recovered main (802e459), rather than merging the temporary reconstruction history. Main can be fast-forwarded once verification is complete. Preserve existing main history.
 
