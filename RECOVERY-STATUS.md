@@ -1,9 +1,5 @@
-# Recovery status: Sakhr Dictionary Revive
+# Recovery status: prepared for review
 
-This repository holds recovered source, not a verified latest version.
+Buildable v1.0.2 source reconstructed from the shipped application, recovered XAML and original data. See verification/FINAL-PARITY.md for checks and remaining limits. Source preparation is complete for the tested matrix; publication and main changes await the owner's review. This is not a released build.
 
-- The files were rebuilt from the text of file writes, reads and simple edits that survived. They are not a git clone and have no original history.
-- Some files are older than the last release and some files are missing. Per-file status is in recovery-notes/MANIFEST.csv and the gaps are in recovery-notes/RECOVERY-NOTES.txt.
-- It has not been built or tested. Do not treat it as the shipped version.
-- Binary files such as icons and images are not included.
-- Work to rebuild missing parts from the shipped installers will go on a separate branch. This branch keeps the recovered state untouched.
+Lost comments and exact original source formatting are not recovered. The private original binaries and raw decompiler snapshots are intentionally absent from this final-source branch. The tested working branch and private fixtures remain available until review/cleanup is approved.

@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup><TargetFramework>net8.0</TargetFramework><OutputType>Exe</OutputType><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+<ItemGroup><Compile Include="../../src/FluentSakhrDictionary/Settings.cs" Link="Settings.cs"/><Compile Include="../../src/FluentSakhrDictionary/Loc.cs" Link="Loc.cs"/><Compile Include="../../src/FluentSakhrDictionary/DictionaryService.cs" Link="DictionaryService.cs"/><Compile Include="../../src/FluentSakhrDictionary/Entry.cs" Link="Entry.cs"/><Compile Include="../../src/FluentSakhrDictionary/Arabic*.cs" Link="%(Filename).cs"/><Compile Include="../../src/FluentSakhrDictionary/Inflection.cs" Link="Inflection.cs"/><Content Include="../../data/*.jsonl" Link="data/%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest"/></ItemGroup>
+</Project>

@@ -1,44 +1,106 @@
+using System;
+using System.CodeDom.Compiler;
+using System.Diagnostics;
+using System.IO;
+using System.Threading;
 using Microsoft.UI.Xaml;
+using Microsoft.UI.Xaml.Markup;
+using WinRT;
 
 namespace FluentSakhrDictionary;
 
 public partial class App : Application
 {
-    public static string AppData => Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "FluentSakhrDictionary");
-    public static MainWindow? Main;
-    /// <summary>CI-only: --screenshot=path [--shot-word=CAT] [--theme=Dark] renders the app and exits.</summary>
-    public static string? ScreenshotPath, ShotWord, ShotTheme, ShotPage;
-    static Mutex? _mutex;
-    MainWindow? _window;
+	public static MainWindow? Main;
 
-    public App()
-    {
-        InitializeComponent();
-        UnhandledException += (s, e) =>
-        {
-            try { Directory.CreateDirectory(AppData); File.AppendAllText(Path.Combine(AppData, "crash.log"), DateTime.Now + "\n" + e.Exception + "\n\n"); } catch { }
-        };
-    }
+	public static string? ScreenshotPath;
 
-    protected override void OnLaunched(LaunchActivatedEventArgs args)
-    {
-        var argv = Environment.GetCommandLineArgs();
-        for (int i = 0; i < argv.Length; i++)
-        {
-            var a = argv[i];
-            if (a.StartsWith("--screenshot=")) ScreenshotPath = a[13..];
-            else if (a == "--screenshot" && i + 1 < argv.Length) ScreenshotPath = argv[++i];
-            if (a.StartsWith("--shot-word=")) ShotWord = a[12..];
-            else if (a == "--shot-word" && i + 1 < argv.Length) ShotWord = argv[++i];
-            if (a.StartsWith("--theme=")) ShotTheme = a[8..];
-            else if (a == "--theme" && i + 1 < argv.Length) ShotTheme = argv[++i];
-            if (a.StartsWith("--shot-page=")) ShotPage = a[12..];
-            else if (a == "--shot-page" && i + 1 < argv.Length) ShotPage = argv[++i];
-        }
-        _mutex = new Mutex(true, "FluentSakhrDictionary.SingleInstance", out bool created);
-        if (!created) { Environment.Exit(0); return; }
-        _window = new MainWindow();
-        Main = _window;
-        _window.Activate();
-    }
+	public static string? ShotWord;
+
+	public static string? ShotTheme;
+
+	public static string? ShotPage;
+
+	public static int ShotWidth;
+
+	public static int ShotHeight;
+
+	private static Mutex? _mutex;
+
+	private MainWindow? _window;
+
+	public static string AppData => Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "SakhrDictionaryRevive");
+
+	public App()
+	{
+		InitializeComponent();
+		base.UnhandledException += delegate(object s, Microsoft.UI.Xaml.UnhandledExceptionEventArgs e)
+		{
+			try
+			{
+				Directory.CreateDirectory(AppData);
+				File.AppendAllText(Path.Combine(AppData, "crash.log"), DateTime.Now.ToString() + "\n" + e.Exception?.ToString() + "\n\n");
+			}
+			catch
+			{
+			}
+		};
+	}
+
+	protected override void OnLaunched(LaunchActivatedEventArgs args)
+	{
+		string[] commandLineArgs = Environment.GetCommandLineArgs();
+		for (int i = 0; i < commandLineArgs.Length; i++)
+		{
+			string text = commandLineArgs[i];
+			if (text.StartsWith("--screenshot="))
+			{
+				ScreenshotPath = text.Substring(13);
+			}
+			else if (text == "--screenshot" && i + 1 < commandLineArgs.Length)
+			{
+				ScreenshotPath = commandLineArgs[++i];
+			}
+			if (text.StartsWith("--shot-word="))
+			{
+				ShotWord = text.Substring(12);
+			}
+			else if (text == "--shot-word" && i + 1 < commandLineArgs.Length)
+			{
+				ShotWord = commandLineArgs[++i];
+			}
+			if (text.StartsWith("--theme="))
+			{
+				ShotTheme = text.Substring(8);
+			}
+			else if (text == "--theme" && i + 1 < commandLineArgs.Length)
+			{
+				ShotTheme = commandLineArgs[++i];
+			}
+			if (text.StartsWith("--shot-page="))
+			{
+				ShotPage = text.Substring(12);
+			}
+			else if (text == "--shot-page" && i + 1 < commandLineArgs.Length)
+			{
+				ShotPage = commandLineArgs[++i];
+			}
+			if (text.StartsWith("--shot-size="))
+			{
+				string[] array = text.Substring(12).Split('x');
+				ShotWidth = int.Parse(array[0]);
+				ShotHeight = int.Parse(array[1]);
+			}
+		}
+		_mutex = new Mutex(initiallyOwned: true, "SakhrDictionaryRevive.SingleInstance", out var createdNew);
+		if (!createdNew)
+		{
+			Environment.Exit(0);
+			return;
+		}
+		_window = new MainWindow();
+		Main = _window;
+		_window.Activate();
+	}
+
 }

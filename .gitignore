@@ -5,3 +5,12 @@ installer/payload.zip
 *.user
 bin/
 obj/
+
+.verification-original/
+evidence/
+original-run/
+original-fixtures/
+verification/original-v1.0.2/*.dll
+verification/original-v1.0.2/*.exe
+verification/original-v1.0.2/*.json
+verification/original-v1.0.2/*.pri

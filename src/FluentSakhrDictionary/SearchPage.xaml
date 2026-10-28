@@ -38,7 +38,7 @@
                 </ListView.ItemContainerStyle>
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <TextBlock Text="{Binding DisplayWord}" FontSize="15" Padding="4,6"/>
+                        <TextBlock FlowDirection="{Binding ItemFlow}" HorizontalAlignment="{Binding ItemHorizontalAlignment}" Text="{Binding DisplayWord}" FontSize="15" Padding="4,6"/>
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
@@ -54,14 +54,16 @@
                     BorderThickness="1">
                 <ScrollViewer VerticalScrollBarVisibility="Auto">
                     <StackPanel>
-                        <TextBlock x:Name="WordTitle" FontSize="34" FontWeight="SemiBold" FlowDirection="RightToLeft" Text="قاموس صخر"/>
+                        <TextBlock x:Name="WordTitle" FontSize="34" FontWeight="SemiBold" FlowDirection="RightToLeft" Text="قاموس صخر الحديث"/>
                         <TextBlock x:Name="WordSubtitle" FontSize="13" Margin="0,2,0,18" Foreground="{ThemeResource TextFillColorSecondaryBrush}" Text="Sakhr Dictionary Revive - English ⇄ Arabic"/>
-                        <ItemsRepeater x:Name="MeaningsRepeater">
+                        <TextBlock x:Name="HomeOfflineText" FontSize="13" Margin="0,0,0,12" TextWrapping="Wrap"/>
+                        <ItemsRepeater x:Name="MeaningsRepeater" FlowDirection="LeftToRight" HorizontalAlignment="Stretch">
                             <ItemsRepeater.ItemTemplate>
                                 <DataTemplate>
-                                    <Grid FlowDirection="RightToLeft" Margin="0,8">
-                                        <TextBlock Text="{Binding}"
+                                    <Grid FlowDirection="LeftToRight" HorizontalAlignment="Stretch" Margin="0,8">
+                                        <TextBlock Text="{Binding}" FlowDirection="RightToLeft"
                                                    FontSize="22"
+                                                   HorizontalAlignment="Right"
                                                    Foreground="{StaticResource MeaningBrush}"
                                                    TextWrapping="Wrap"
                                                    TextAlignment="Right"/>
@@ -73,7 +75,7 @@
                             </ItemsRepeater.Layout>
                         </ItemsRepeater>
                         <TextBlock x:Name="SakhrHeader" Visibility="Collapsed" Margin="0,0,0,2" FontSize="14" FontWeight="SemiBold" Foreground="{ThemeResource TextFillColorSecondaryBrush}" Text="From the 1996 Sakhr dictionary:"/>
-                        <ItemsRepeater x:Name="SakhrRepeater" Visibility="Collapsed">
+                        <ItemsRepeater x:Name="SakhrRepeater" FlowDirection="LeftToRight" Visibility="Collapsed">
                             <ItemsRepeater.ItemTemplate>
                                 <DataTemplate>
                                     <Grid Margin="0,6">
@@ -89,7 +91,7 @@
                             </ItemsRepeater.Layout>
                         </ItemsRepeater>
                         <TextBlock x:Name="WikHeader" Visibility="Collapsed" Margin="0,18,0,2" FontSize="14" FontWeight="SemiBold" Foreground="{ThemeResource TextFillColorSecondaryBrush}" Text="From Wiktionary:"/>
-                        <ItemsRepeater x:Name="EnglishRepeater" Visibility="Collapsed">
+                        <ItemsRepeater x:Name="EnglishRepeater" FlowDirection="LeftToRight" Visibility="Collapsed">
                             <ItemsRepeater.ItemTemplate>
                                 <DataTemplate>
                                     <Grid Margin="0,8">

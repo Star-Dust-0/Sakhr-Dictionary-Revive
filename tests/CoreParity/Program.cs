@@ -1,0 +1,35 @@
+using FluentSakhrDictionary;
+using System.Text.Json;
+using System.Diagnostics;
+int passed = 0;
+void Check(bool ok, string name) { if (!ok) throw new Exception("FAIL: " + name); Console.WriteLine("PASS: " + name); passed++; }
+var timer = Stopwatch.StartNew();
+await Task.WhenAll(Enumerable.Range(0, 12).Select(_ => DictionaryService.CoreReady));
+Check(DictionaryService.Count == File.ReadLines(Path.Combine(AppContext.BaseDirectory,"data","dictionary.jsonl")).Count(l=>!string.IsNullOrWhiteSpace(l)), "every dictionary data row loaded");
+Check(DictionaryService.NormalizeArabic("أَكَلَ إِنْسَان") == "اكل انسان", "Arabic normalization");
+Check(DictionaryService.Exact("  cat  ")?.Word == "CAT", "English exact lookup and trim");
+Check(DictionaryService.Search("cat", 4).Count <= 4, "English prefix limit");
+Check(DictionaryService.Search(" ").Count == 0, "blank English search");
+Check(DictionaryService.SearchArabic(" ",false).Count == 0, "blank Arabic search");
+Check(DictionaryService.Exact("ZZZZZZ-NONEXISTENT") == null, "missing exact lookup");
+Check(DictionaryService.SearchArabic("قط",false).All(x => !x.FromWiktionary), "Wiktionary off keeps Sakhr-only Arabic results");
+Check(Entry.TitleCase("  CAT FOOD ") == "Cat Food", "title casing");
+await DictionaryService.WikReady;
+Check(DictionaryService.InflectionOf("ABANDONS")?.Lemma == "ABANDON", "English inflection abandons");
+Check(DictionaryService.SearchArabic("كتاب",true).Count > 0, "Arabic with Wiktionary");
+var rows=File.ReadLines(Path.Combine(AppContext.BaseDirectory,"data","dictionary.jsonl")).Where(x=>x.Length>0).Select(x=>JsonDocument.Parse(x)).ToArray();
+foreach(var row in rows) { var word=row.RootElement.GetProperty("word").GetString()!; if(DictionaryService.Exact(word)?.Word != word) throw new Exception("Lost entry: "+word); row.Dispose(); }
+Check(true,"exact lookup round-trip for every dictionary row");
+var defaults = Settings.Load();
+Check(defaults.Language == "system" && !defaults.UseWiktionary && defaults.Theme == "Default", "safe first-run defaults");
+var stored = new Settings { Language = "ar", Theme = "Dark", Backdrop = "Acrylic", Accent = "#123456", UseWiktionary = true };
+stored.Save();
+var loaded = Settings.Load();
+Check(JsonSerializer.Serialize(stored) == JsonSerializer.Serialize(loaded), "settings round-trip all fields");
+File.WriteAllText(Path.Combine(App.AppData,"settings.json"), "invalid-json");
+Check(Settings.Load().Language == "system", "corrupt settings fall back safely");
+Loc.Apply(new Settings { Language = "ar" });
+Check(Loc.IsArabic && Loc.NotFound == "غير موجود.", "Arabic localization");
+Loc.Apply(new Settings { Language = "en" });
+Check(!Loc.IsArabic && Loc.Meanings(1) == "1 meaning", "English localization");
+Console.WriteLine($"{passed} checks passed in {timer.Elapsed.TotalSeconds:F2}s; {DictionaryService.Count} entries");

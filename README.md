@@ -1,76 +1,52 @@
-<p dir="rtl" align="right"><b>قاموس صخر الحديث</b></p>
-<p dir="rtl" align="right">تطبيق قاموس صخر - إعادة احياء لبرنامج قاموس صخر الأصلي الصادر سنة 1996</p>
-
 # Sakhr Dictionary Revive
 
-The classic Sakhr Dictionary reborn as a modern Windows app: native WinUI 3,
-Mica, instant search in both directions, full RTL support - the same design
-DNA as Fluent Prayer Times and Fluent Vantage Toolbar.
+A Windows English-Arabic dictionary with a native WinUI 3 interface, Arabic and English UI, light/dark themes, Mica/Acrylic backdrops and customizable accent colors.
 
-## The app
+brought to you by Instinct
 
-- WinUI 3, native Fluent: Mica backdrop, smooth animations, light/dark theme
-- Instant prefix search over all 59,427 English lemmas, fully offline
-- 125,896 Arabic meanings with full diacritics, rendered correctly
-  (the original 1996 program could not even display them properly)
-- Arabic -> English: 36,627 Arabic entries from English Wiktionary, with the
-  1996 Sakhr data as a labeled supplement - never interleaved
-- Equal two-pane layout: live word list on the left, meanings (RTL) on the right
-- Customizable accent color (default teal #00A6A6), manual update check
-- English interface with formal Arabic content
+## Features
 
-### Download
+- Offline English lookup over 59,427 dictionary entries and Arabic reverse lookup.
+- Original Sakhr meanings are kept separate from optional Wiktionary results.
+- Word inflections, instant suggestions and full Arabic right-to-left layout.
+- Optional Wiktionary data is off by default.
+- Manual update checks only. The update source is [StarsDust01/Sakhr-Dictionary-Revive](https://github.com/StarsDust01/Sakhr-Dictionary-Revive).
+- Stable installer identity: new installs replace the existing app. Uninstall keeps personal settings.
 
-Grab the latest release:
-[Releases](https://github.com/MohamedElnaggar00/Sakhr-Dictionary-Revive/releases)
+## Reconstructed source
 
-Three flavors: setup (recommended), portable zip, and a small
-.NET-runtime-dependent installer.
+This project was reconstructed from the owner's shipped v1.0.2 application and recovered source. It is maintainable source, not a claim to recover lost comments or the exact original source text. Version 1.0.2 retains the original app identity and data. Intentional changes are the GitHub-account migration, a language-switch bug fix, and corrected installer version labels.
 
-### Build from source
+Validation covers 17 core assertions, 61,321 original-managed-code differential comparisons, 92 Windows captures, actual UI interactions, and install/reinstall/uninstall checks. See [verification/STATUS.md](verification/STATUS.md) for the tested matrix and limits. High-DPI, multiple monitors and every possible Windows configuration are not claimed tested.
 
+## Build
+
+Requires Windows x64, .NET 8 SDK and NuGet access. Windows App SDK 1.6 packages are restored automatically.
+
+```powershell
+dotnet run --project tests/CoreParity -c Release
+dotnet publish src/FluentSakhrDictionary/FluentSakhrDictionary.csproj -c Release -r win-x64 -p:Platform=x64 --self-contained false -p:WindowsAppSDKSelfContained=true -o publish
+./verification/build-installer.ps1
 ```
-dotnet publish src/FluentSakhrDictionary/FluentSakhrDictionary.csproj -c Release -r win-x64
+
+The installer checks for .NET 8, Visual C++ and Windows App Runtime requirements and downloads signed Microsoft installers if needed. A first install may need internet access. Dictionary use is offline.
+
+## Data and license
+
+Application source: MIT. Original Sakhr data was extracted from the owner's copy of the 1996 dictionary. Wiktionary-derived data: CC BY-SA 4.0, via Wiktextract/kaikki.org; see [data/LICENSE-wiktionary-ar.txt](data/LICENSE-wiktionary-ar.txt). The datasets retain their separate attribution.
+
+Developer: Mohamed Elnaggar. Arabic recovered README is preserved as [README.ar.md](README.ar.md).
+
+## Copy links
+
+Repository:
+
+```text
+https://github.com/StarsDust01/Sakhr-Dictionary-Revive
 ```
 
-Requires .NET 8 SDK and the Windows App SDK 1.6 workload. The app runs
-framework-dependent: the Windows App Runtime installer is bundled in setup.
+Release page (only usable when a release has been approved and published):
 
-## The original
-
-The box of the original **Sakhr Dictionary, MSX Al-Alamiah edition (1987)** -
-the ancestor of the 1996 Windows version this project revives, and the
-dictionary whole generations grew up with. Photos from the developer's own copy.
-
-| Front | Back |
-| --- | --- |
-| ![Front of the original Sakhr Dictionary box, MSX Al-Alamiah edition 1987](docs/box-front.jpg) | ![Back of the original Sakhr Dictionary box, MSX Al-Alamiah edition 1987](docs/box-back.jpg) |
-
-## The data
-
-`data/dictionary.jsonl` holds the full extracted dataset: 59,427 records
-aligned 1:1 with the original program's English word list, with the Arabic
-meanings captured from the original 1996 program itself (see `extraction/`).
-45,693 lemmas resolve to meanings; the remaining 13,734 are rare inflections
-and proper nouns absent from the original program's own search index.
-The original program lives on untouched in `data/legacy/sakhr.7z`.
-
-## Credits
-
-Developer: Mohamed Elnaggar
-
-Contributors: app.instinct
-
-brought to you by app.instinct AI
-
-## License
-
-MIT
-
-## Data sources
-
-- **English -> Arabic:** the original 1996 Sakhr dictionary data, extracted from the user's own copy (59,427 lemmas, 125,896 meanings). See `extraction/` and `tools/`.
-- **Arabic -> English:** Arabic entries from English Wiktionary, machine-extracted by wiktextract and published at [kaikki.org](https://kaikki.org/dictionary/Arabic/) (36,627 entries, 60,395 glosses). License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - see `data/LICENSE-wiktionary-ar.txt`. Regenerate with `python3 tools/extract_wiktionary.py <kaikki-dump.jsonl> data/wiktionary-ar.jsonl`.
-
-The application source code is MIT licensed; the Wiktionary-derived data file ships under CC BY-SA 4.0 with attribution.
-
+```text
+https://github.com/StarsDust01/Sakhr-Dictionary-Revive/releases
+```
