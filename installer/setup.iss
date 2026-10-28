@@ -5,6 +5,7 @@ AppVersion=1.0.3
 AppPublisher=Mohamed Elnaggar
 AppPublisherURL=https://instinct.com
 DefaultDirName={autopf}\SakhrDictionaryRevive
+DisableProgramGroupPage=yes
 PrivilegesRequired=admin
 ArchitecturesAllowed=x64compatible
 ArchitecturesInstallIn64BitMode=x64compatible
