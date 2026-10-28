@@ -56,4 +56,3 @@ if(!($boxNames|Where-Object {$_ -like '*desktop*'})){throw "Desktop shortcut opt
 "Desktop option present: $($boxNames -join ' | ')"|Set-Content evidence/installer-wizard.txt
 Get-Process|Where-Object {$_.MainWindowTitle -like 'Setup - Sakhr Dictionary Revive*'}|Stop-Process -Force -ErrorAction SilentlyContinue
 Start-Sleep -Seconds 1
-Get-ChildItem "$env:TEMP" -Filter 'is-*.tmp' -Directory -ErrorAction SilentlyContinue|ForEach-Object {Get-Process -Id (Get-ChildItem $_.FullName -Filter *.exe -ErrorAction SilentlyContinue|ForEach-Object {$_.Name -replace '\.exe$',''}|Where-Object {$_ -match '^\d+$'}) -ErrorAction SilentlyContinue}
