@@ -1,0 +1,7 @@
+publish/
+setup/
+setup-rd/
+installer/payload.zip
+*.user
+bin/
+obj/

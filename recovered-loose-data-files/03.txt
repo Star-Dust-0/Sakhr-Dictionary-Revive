@@ -1,0 +1,400 @@
+CHLORINATOR|جهاز كلورة
+CHLOROPHYL|يخضور؛ كلوروفيل
+CHOC|شوكولاتة
+CHOKEY|سجن؛ خانق
+CHOKIER|أكثر اختناقًا
+CHOKIEST|أشدّها اختناقًا
+CHOKY|سجن؛ خانق
+CHOLERAIC|كوليري؛ متعلق بالكوليرا
+CHOLERICALLY|بغضب؛ بسرعة غضب
+CHOOSER|مُختار
+CHOOSERS|مُختارون
+CHOOSEY|انتقائي؛ صعب الإرضاء
+CHOOSINESS|انتقائية؛ صعوبة الإرضاء
+CHOPFALLEN|مكتئب؛ منكسر
+CHOPPINESS|اضطراب الأمواج
+CHORDAL|وتري؛ متعلق بالأوتار
+CHORTLER|ضاحك بمرح
+CHRISTIANLY|على نحو مسيحي
+CHRISTLIKE|شبيه بالمسيح
+CHRISTLINESS|شَبَه بالمسيح
+CHRISTLY|شبيه بالمسيح
+CHRISTMASTIDE|موسم الميلاد
+CHRONOLOGER|مُؤرِّخ زمني
+CHRONOLOGERS|مُؤرِّخون زمنيون
+CHRONOLOGIC|زمني؛ تسلسلي
+CHRONOMETRIC|كرونومتري؛ متعلق بقياس الزمن
+CHRONOMETRICAL|كرونومتري؛ متعلق بقياس الزمن
+CHRONOMETRICALLY|بدقة زمنية
+CHUBBINESS|امتلاء؛ سمنة
+CHUCKLER|ضاحك بخفوت
+CHUKKAR|شوط في لعبة البولو
+CHUKKER|شوط في لعبة البولو
+CHURCHLINESS|صفة كنسية؛ تديّن
+CHURNER|مُخضِّض اللبن
+CHUTIST|مظلّي
+CHUTNEE|صلصة هندية حارة
+CICATRICE|ندبة
+CICATRICIAL|ندبي
+CICERONES|مرشدون سياحيون
+CICERONI|مرشدون سياحيون
+CIGARET|سيجارة
+CIGARETS|سجائر
+CINDERY|رماديّ؛ مليء بالرماد
+CINEMATICALLY|سينمائيًا
+CINNAMIC|قرفي
+CIRCLER|مُدوِّر؛ مُحيط
+CIRCULARIZATION|تعميم
+CIRCULARIZER|مُعمِّم
+CIRCUMCISER|خاتن
+CIRCUMFERENTIAL|محيطي
+CIRCUMFLEXION|انحناء؛ تقوّس
+CIRCUMSCRIBER|مُحدِّد؛ مُحيط
+CIRCUMVENTER|مُلتفّ؛ مُحتال
+CIRCUMVENTOR|مُلتفّ؛ مُحتال
+CISSY|مخنَّث؛ ضعيف
+CITROUS|حمضي؛ ليموني
+CIVICALLY|مدنيًا
+CIVIES|ملابس مدنية
+CIVILIZER|مُحضِّر؛ مُمدِّن
+CLACKER|مِقرعة؛ مُقعقِع
+CLAIMERS|مُطالبون
+CLAMBERER|متسلّق
+CLAMORER|صائح؛ مُلحّ
+CLAMOURED|صاح؛ طالب بصخب
+CLAMOURER|صائح؛ مُلحّ
+CLAMOUROUS|صاخب؛ مُلحّ
+CLANGER|زلّة؛ خطأ فادح
+CLANGOUR|رنين؛ جلبة معدنية
+CLANSWOMAN|امرأة من عشيرة
+CLANSWOMEN|نساء من عشيرة
+CLARIFIER|مُنقٍّ؛ مُوضِّح
+CLARINETTIST|عازف كلارينيت
+CLARIONET|كلارينيت؛ مزمار
+CLASPER|مُمسِك؛ مشبك
+CLASSINESS|رقيّ؛ أناقة
+CLATTERER|مُقعقِع؛ مُحدِث ضجة
+CLATTERINGLY|بقعقعة
+CLAUSTRAL|ديري؛ متعلق بالأديرة
+CLAVICULAR|ترقوي
+CLAYISH|طيني؛ شبيه بالطين
+CLEANABLE|قابل للتنظيف
+CLEANSHAVEN|حليق الذقن
+CLEARABLE|قابل للتصفية
+CLEARSTORIES|نوافذ علوية
+CLEARSTORY|نافذة علوية
+CLEAVABLE|قابل للشقّ
+CLENCHER|ضاغط؛ قابض
+CLERESTORIES|نوافذ علوية
+CLERESTORY|نافذة علوية
+CLERGYWOMAN|رجل دين امرأة؛ قسّة
+CLERGYWOMEN|نساء دين
+CLERICALIST|مناصر لسلطة رجال الدين
+CLERISY|طبقة المثقفين
+CLERKDOM|عالم الكتبة
+CLICHE|عبارة مبتذلة؛ كليشيه
+CLICHES|عبارات مبتذلة؛ كليشيهات
+CLIENTAGE|عملاء؛ زبائن
+CLIMACTERICAL|حرِج؛ حاسم
+CLIMACTICAL|ذروي؛ حاسم
+CLIMACTICALLY|بشكل ذروي
+CLIMATICAL|مناخي
+CLIMATICALLY|مناخيًا
+CLIMATOLOGIST|عالم مناخ
+CLINGER|مُتشبِّث
+CLINGY|لَزِج؛ متشبّث
+CLIQUY|شِلَلي؛ منغلق
+CLITORIC|بظري
+CLODDISH|فجّ؛ غليظ
+CLODDISHLY|بفجاجة
+CLODDY|مُتكتِّل؛ ترابي
+CLOGGIER|أكثر انسدادًا
+CLOGGIEST|أشدّها انسدادًا
+CLOGGINESS|انسداد؛ التصاق
+CLOGGY|مسدود؛ لزج
+CLOISONNE|مينا مُقسَّمة
+CLOISTRAL|ديري؛ منعزل
+CLUBABLE|اجتماعي؛ مؤهل للانضمام لنادٍ
+CLUBBABLE|اجتماعي؛ مؤهل للانضمام لنادٍ
+CLUBBINESS|ودّية؛ نزعة نادٍ
+CLUELESS|جاهل؛ غافل
+CLUMPISH|ثقيل؛ كتلي
+CLUMPY|متكتّل؛ ثقيل
+CLUNK|صوت ارتطام معدني
+CLUNKED|ارتطم بصوت معدني
+CLUNKER|سيارة قديمة
+CLUNKS|أصوات ارتطام معدنية
+COACHER|مُدرِّب؛ سائق عربة
+COAGULABILITY|قابلية التخثّر
+COAGULABLE|قابل للتخثّر
+COAGULATIVE|مُخثِّر
+COALER|سفينة فحم
+COALERS|سفن فحم
+COALFIELD|حقل فحم
+COALIFICATION|تفحيم
+COALIFIED|متفحّم
+COALIFIES|يتفحّم
+COALIFY|يتفحّم
+COAMING|حافة فتحة السفينة
+COASTGUARD|خفر السواحل
+COAXER|مُستميل
+COAXINGLY|بإقناع؛ بلطف
+COBBER|صديق (أسترالية)
+COBNUT|بندق
+COBOL|كوبول (لغة برمجة)
+COCAIN|كوكايين
+COCAINISM|إدمان الكوكايين
+COCCYGEAL|عصعصي
+COCKADE|شارة تُثبَّت على القبعة
+COCKBOAT|قارب صغير
+COCKHORSE|حصان خشبي
+COCO|جوز الهند
+COCOANUT|جوز الهند
+COCOANUTS|جوز هند
+COCOS|جوز الهند
+COCOTTE|مومس؛ طبق فخاري
+CODDLER|مُدلِّل؛ مُفرِط في الرعاية
+CODER|مُرمِّز؛ مبرمج
+CODIFIER|مُقنِّن
+CODLIN|تفاح مطبوخ
+COERCER|مُكرِه
+COGITATIVE|تأمّلي؛ تفكيري
+COGITATIVELY|بتفكير؛ بتأمل
+COGITATIVENESS|تأمّل؛ ميل للتفكير
+COGITATOR|مُفكِّر
+COGITATORS|مُفكِّرون
+COGNATION|قرابة الدم؛ صلة قربى
+COGNITIONAL|إدراكي؛ معرفي
+COGNIZABLE|يمكن إدراكه؛ يدخل في الاختصاص
+COGNIZABLY|بحيث يمكن إدراكه
+COIFFEUSE|مصففة شعر
+COIGN|ركن؛ حجر زاوية
+COINER|ضارب نقود؛ مُلفِّق
+COINERS|ضاربو نقود؛ مُلفِّقون
+COKERNUT|جوز الهند
+COKERNUTS|جوز هند
+COL|ممر جبلي
+COLDSHOULDER|يتجاهل؛ يعامل ببرود
+COLLABORATIONISM|التعاون مع العدو
+COLLAGENIC|كولاجيني
+COLLAGENOUS|كولاجيني
+COLLAPSABLE|قابل للطي
+COLLEAGUESHIP|زمالة
+COLLECTIVITY|جماعية
+COLLECTORSHIP|منصب جابٍ؛ منصب محصِّل
+COLLISIONAL|تصادمي
+COLLOCATIONAL|متعلق بالتلازم اللفظي
+COLLYWOBBLES|مغص؛ اضطراب في المعدة
+COLONELCIES|رتب عقيد
+COLONELCY|رتبة عقيد
+COLONELSHIP|رتبة عقيد
+COLONIC|قولوني؛ متعلق بالقولون
+COLORABILITY|قابلية التلوين
+COLORABLY|ظاهريًا؛ بشكل مُلوَّن
+COLORER|مُلوِّن
+COLOUR|لون
+COLOURBLIND|أعمى الألوان
+COLOURBLINDNESS|عمى الألوان
+COLOURED|مُلوَّن
+COLOURFUL|ملوّن؛ زاهٍ
+COLOURFULLY|بألوان زاهية
+COLOURING|تلوين؛ لون
+COLOURLESS|عديم اللون
+COLOURLESSNESS|انعدام اللون
+COLOURS|ألوان؛ علَم
+COLTER|سكّة المحراث
+COMAL|غيبوبي
+COMBINATIONAL|تركيبي؛ ائتلافي
+COMBINER|مُركِّب؛ جامع
+COMBINERS|مُركِّبون؛ جامعون
+COMBUSTIVE|قابل للاحتراق
+COMEUPPANCE|جزاء؛ عقاب مستحق
+COMFREYS|نباتات العظمية؛ لسان الثور
+COMMANDERIES|قيادات؛ مقاطعات فرسان
+COMMANDERSHIP|قيادة؛ رتبة قائد
+COMMANDERY|مقاطعة فرسان؛ قيادة
+COMMEMORATORY|تذكاري
+COMMENCER|مُبتدئ؛ بادئ
+COMMENSURABILITY|قابلية المقايسة
+COMMENSURATION|مقايسة؛ تناسب
+COMMINATION|وعيد؛ تهديد
+COMMISERATOR|مُتعاطِف؛ مُشفِق
+COMMISERATORS|مُتعاطِفون؛ مُشفِقون
+COMMISSIONAIRE|بوّاب؛ حاجب
+COMMITTABLE|قابل للإحالة؛ قابل للارتكاب
+COMMONAGE|حقّ الرعي المشترك
+COMMONALITIES|أمور مشتركة
+COMMONALITY|اشتراك؛ صفة مشتركة
+COMMUNALIST|مناصر للملكية الجماعية
+COMMUNIQUE|بلاغ؛ بيان رسمي
+COMMUNIQUES|بلاغات؛ بيانات رسمية
+COMMUTABILITY|قابلية التبديل
+COMMUTABLE|قابل للتبديل؛ قابل للتخفيف
+COMMUTATIVITY|خاصية الإبدال
+COMMUTATOR|مبدِّل؛ عاكس التيار
+COMPARATOR|مُقارِن؛ جهاز مقارنة
+COMPARER|مُقارِن
+COMPARERS|مُقارِنون
+COMPELLABLE|يمكن إلزامه
+COMPELLABLY|بإلزام؛ بقوة
+COMPELLER|مُكرِه؛ مُلزِم
+COMPENSATIONAL|تعويضي
+COMPENSATIVE|تعويضي
+COMPENSATOR|مُعوِّض؛ جهاز تعويض
+COMPENSATORS|مُعوِّضون؛ أجهزة تعويض
+COMPERE|مقدِّم برنامج
+COMPETITORY|تنافسي
+COMPLACENCE|رضا؛ ارتياح؛ تساهل
+COMPLEMENTAL|تكميلي
+COMPLEMENTALLY|على نحو تكميلي
+COMPLETIVE|مُكمِّل
+COMPLIANCY|امتثال؛ مجاراة
+COMPLICACIES|تعقيدات
+COMPLICACY|تعقيد
+COMPOUNDABLE|قابل للتركيب؛ قابل للتسوية
+COMPOUNDER|مُركِّب؛ مُسوٍّ
+COMPREHENDIBLE|قابل للفهم
+COMPRESSIONAL|انضغاطي
+COMPULSORINESS|إلزامية
+COMPUNCTIOUS|نادم؛ تائب
+COMPUTERESE|لغة الحاسوب؛ مصطلحات حاسوبية
+CONCEALABLE|يمكن إخفاؤه
+CONCEALER|مُخفٍ؛ كاتم
+CONCEDER|مُسلِّم؛ مُقِرّ
+CONCENTRICAL|متمركز؛ متّحد المركز
+CONCERNMENT|اهتمام؛ شأن
+CONCESSIONARY|صاحب امتياز؛ امتيازي
+CONCESSIONER|صاحب امتياز
+CONCHOLOGY|علم الأصداف
+CONCLUDER|مُنهٍ؛ مُستنتِج
+CONCOCTIVE|تركيبي؛ ملفَّق
+CONCRETIONARY|تحجّري؛ كتلي
+CONCRETIST|داعٍ إلى المحسوس
+CONDEMNABLE|يستحق الإدانة
+CONDENSABILITY|قابلية التكثيف
+CONDENSIBILITY|قابلية التكثيف
+CONDENSIBLE|قابل للتكثيف
+CONDESCENDENCE|تنازل؛ تعالٍ
+CONDESCENDER|مُتنازِل؛ مُتعالٍ
+CONDOLER|مُعزٍّ
+CONDONABLE|يمكن التغاضي عنه
+CONDONATION|تغاضٍ؛ صفح
+CONDONER|مُتغاضٍ؛ صافح
+CONDUCTRESS|مرشدة؛ جابية تذاكر
+CONDUCTRESSES|مرشدات؛ جابيات تذاكر
+CONEY|أرنب؛ فرو الأرنب
+CONEYS|أرانب
+CONFECT|يُحلّي؛ يصنع حلوى
+CONFECTED|حلّى؛ صنع حلوى
+CONFECTIONARIES|متاجر حلويات
+CONFECTIONARY|حلوانيّ؛ حلويات
+CONFECTS|يُحلّي؛ يصنع حلوى
+CONFEDERATIONISM|نزعة الاتحاد الكونفدرالي
+CONFEDERATIVE|اتحادي؛ كونفدرالي
+CONFERRABLE|قابل للمنح
+CONFERRER|مانح؛ مُتشاوِر
+CONFESSABLE|يمكن الاعتراف به
+CONFESSER|مُعترِف
+CONFESSERS|مُعترِفون
+CONFINEABLE|يمكن حصره
+CONFINER|حاصر؛ حابس
+CONFIRMATORY|تأكيدي
+CONFIRMER|مُؤكِّد
+CONFISCABLE|قابل للمصادرة
+CONFLICTION|صراع؛ نزاع
+CONFORMABILITY|قابلية المطابقة
+CONFRONTER|مُواجِه
+CONFUCIAN|كونفوشيوسي
+CONFUTABLE|يمكن دحضه
+CONFUTER|دافِع؛ مُفنِّد
+CONGEALABLE|قابل للتجمّد
+CONGEALMENT|تجمّد
+CONGEED|ودّع؛ سرّح
+CONGRATULATOR|مُهنِّئ
+CONGRATULATORS|مُهنِّئون
+CONGREGATOR|جامع؛ مُجمِّع
+CONGREGATORS|جامعون؛ مُجمِّعون
+CONJECTURABLE|يمكن تخمينه
+CONJECTURER|مُخمِّن
+CONJOINER|رابط؛ مُوحِّد
+CONJUROR|ساحر؛ مُشعوِذ
+CONKER|ثمرة كستناء الحصان
+CONN|يقود السفينة
+CONNECTER|رابط؛ واصل
+CONNECTERS|روابط؛ واصلات
+CONNEXION|صلة؛ ارتباط
+CONNIVENCE|تواطؤ؛ تغاضٍ
+CONNIVENT|متواطئ؛ متقارب
+CONNOISSEURSHIP|خبرة؛ ذائقة الخبير
+CONNS|يقود السفينة
+CONSENTER|موافق؛ مُوافِق
+CONSERVATIONAL|متعلق بالحفاظ على البيئة
+CONSERVATOIRE|معهد موسيقي
+CONSERVER|حافظ؛ مُصوِن
+CONSIGNATION|إرسال بضاعة؛ إيداع
+CONSIGNER|مُرسِل بضاعة
+CONSIGNERS|مُرسِلو بضاعة
+CONSISTORIES|مجالس كنسية
+CONSISTORY|مجلس كنسي
+CONSOLER|مُعزٍّ
+CONSOLERS|مُعزّون
+CONSOLS|سندات الحكومة البريطانية
+CONSOMME|مرق صافٍ
+CONSPIRER|مُتآمِر
+CONSTELLATIONAL|متعلق بالأبراج الفلكية
+CONSTITUTER|مُؤسِّس؛ مُكوِّن
+CONSTITUTOR|مُؤسِّس؛ مُكوِّن
+CONSTRAINABLE|قابل للإكراه
+CONSTRAINER|مُكرِه
+CONSTRUCTER|بانٍ؛ مُنشِئ
+CONSTRUCTIONIST|بنّاء؛ مفسِّر بنيوي
+CONSTRUCTIVISM|البنائية
+CONSULSHIP|منصب قنصل
+CONSULTATORY|استشاري
+CONSULTER|مُستشير
+CONSUMMATIVE|مُكمِّل؛ مُتمِّم
+CONSUMMATOR|مُتمِّم؛ مُنجِز
+CONSUMMATORS|مُتمِّمون؛ مُنجِزون
+CONTAMINATIVE|مُلوِّث
+CONTEMNER|محتقِر
+CONTEMNOR|محتقِر
+CONTEMPORANEITY|معاصرة
+CONTEMPORIZE|يُزامِن؛ يجعله معاصرًا
+CONTEMPORIZED|زامن
+CONTEMPORIZES|يُزامِن
+CONTEMPTIBILITY|حقارة
+CONTESTATION|مجادلة؛ منازعة
+CONTESTER|مُتنازِع؛ مُنافِس
+CONTINENCY|عفّة؛ ضبط النفس
+CONTINUABLE|قابل للاستمرار
+CONTINUATIVE|استمراري
+CONTINUATOR|مُتابِع؛ مُكمِل
+CONTINUER|مُواصِل
+CONTINUERS|مُواصِلون
+CONTORTIVE|التوائي
+CONTRABANDIST|مُهرِّب
+CONTRACTIONAL|انقباضي
+CONTRADICTABLE|يمكن نقضه
+CONTRASTABLE|قابل للمقابلة
+CONTRASTY|عالي التباين
+CONTRAVENER|مُخالِف
+CONTRIBUTIVE|مُساهِم
+CONTRIBUTIVELY|بمساهمة
+CONTRIBUTIVENESS|إسهام؛ ميل إلى المساهمة
+CONTRIVER|مُدبِّر؛ مُخترِع
+CONTROLLERSHIP|منصب مراقب مالي
+CONTROVERT|يُجادِل؛ يُناقِض
+CONTROVERTED|جادل؛ ناقض
+CONTROVERTS|يُجادِل؛ يُناقِض
+CONVECTIONAL|حملي؛ متعلق بالحمل الحراري
+CONVECTIVE|حملي؛ متعلق بالحمل الحراري
+CONVENER|داعٍ إلى اجتماع؛ منسِّق
+CONVENIENCIES|وسائل راحة؛ ملاءمات
+CONVENIENCY|ملاءمة؛ راحة
+CONVENTICLE|اجتماع ديني سرّي
+CONVENTIONALISM|تقليدية؛ التزام بالعرف
+CONVERGENCIES|تقاربات؛ تلاقيات
+CONVERGENCY|تقارب؛ تلاقٍ
+CONVERSANCE|إلمام؛ معرفة
+CONVERSANCY|إلمام؛ معرفة
+CONVERSATIONIST|محبّ للحديث؛ محاور

@@ -1,0 +1,400 @@
+TOLERATIVE|متسامح
+TOLERATOR|مُتسامِح
+TOLERATORS|مُتسامِحون
+TOMBOLAS|يانصيب
+TOMFOOL|أحمق
+TOMTOM|طبل أفريقي
+TONICALLY|منعشًا؛ نغميًا
+TONNE|طن متري
+TONSILLAR|لوزي
+TONSORIAL|متعلق بالحلاقة
+TOOTER|نافخ
+TOOTERS|نافخون
+TOOTLE|ينفخ بلطف؛ يتجوّل
+TOOTLED|نفخ بلطف
+TOOTLES|ينفخ بلطف
+TOPEE|خوذة استوائية
+TOR|تلّة صخرية
+TORCHLIGHT|ضوء مشعل
+TORMENTER|مُعذِّب
+TORMENTERS|مُعذِّبون
+TORNADIC|إعصاري
+TORPIDITY|خمول؛ تخدّر
+TORPORIFIC|مُخدِّر؛ مُخمِل
+TORRIDITY|شدة الحرّ
+TORSIONAL|التوائي
+TORSIONALLY|التوائيًا
+TORY|محافظ (سياسيًا)
+TORYISM|المحافظية
+TOSSUP|أمر متكافئ؛ قرعة
+TOTALIZATOR|جهاز مراهنات
+TOTER|حامل
+TOTTERER|مترنّح
+TOUCHER|لامس
+TOUCHLINE|خط التماس
+TOUCHLINES|خطوط التماس
+TOUCHWOOD|فتيل؛ مادة قابلة للاشتعال
+TOUGHENER|مُقسٍّ؛ مُقوٍّ
+TOURISTIC|سياحي
+TOUTER|مُروِّج؛ سمسار
+TOUTERS|مُروِّجون
+TOUZLE|يشوّش؛ يعبث
+TOUZLED|شوّش؛ عبث
+TOUZLES|يشوّش؛ يعبث
+TOWNEE|من أهل المدينة
+TOXAEMIA|تسمّم الدم
+TOXICALLY|سمّيًا
+TRACHOMATOUS|رمدي
+TRACKABLE|قابل للتتبع
+TRACKER|مُتتبِّع
+TRACKERS|مُتتبِّعون
+TRACKSUIT|بدلة رياضية
+TRACTIONAL|جرّي
+TRAD|تقليدي
+TRADESFOLK|أهل التجارة
+TRADESPEOPLE|أهل التجارة
+TRADUCEMENT|تشهير؛ افتراء
+TRADUCIBLE|قابل للتشهير
+TRAGICAL|مأساوي
+TRAGICALNESS|مأساوية
+TRAGICOMICAL|مأساوي ساخر
+TRAINBEARER|حامل الذيل
+TRAITORESS|خائنة
+TRAITRESS|خائنة
+TRAITRESSES|خائنات
+TRAMCAR|عربة ترام
+TRAMCARS|عربات ترام
+TRAMLINE|خط ترام
+TRAMLINES|خطوط ترام
+TRAMMELER|مُعرقِل
+TRAMPER|متشرّد؛ سائر
+TRAMPLER|دائس
+TRAMPOLINER|قافز على الترامبولين
+TRAMPOLINIST|قافز على الترامبولين
+TRANQUILLISE|يهدّئ
+TRANQUILLISED|هدّأ
+TRANQUILLISES|يهدّئ
+TRANQUILLIZE|يهدّئ
+TRANQUILLIZER|مهدّئ
+TRANQUILLIZERS|مهدّئات
+TRANSACTOR|مُنجِز؛ مُتعامِل
+TRANSACTORS|مُتعامِلون
+TRANSCENDENCY|تعالٍ؛ سمو
+TRANSCRIBABLE|قابل للنسخ
+TRANSCRIBERS|ناسخون
+TRANSFERRAL|نقل؛ تحويل
+TRANSFERRER|ناقل؛ مُحوِّل
+TRANSFERRERS|ناقلون؛ مُحوِّلون
+TRANSFIXION|اختراق؛ طعن
+TRANSFORMATIVE|تحويلي
+TRANSFUSER|ناقل دم
+TRANSFUSERS|ناقلو دم
+TRANSFUSIBLE|قابل للنقل
+TRANSGRESSIVE|مُتعدٍّ؛ مخالف
+TRANSGRESSIVELY|بتعدٍّ
+TRANSHIP|ينقل من سفينة لأخرى
+TRANSIENCY|زوال؛ عَرَضية
+TRANSITIONARY|انتقالي
+TRANSITORINESS|زوال؛ عابرية
+TRANSLATIONAL|ترجمي؛ انتقالي
+TRANSMISSIVE|ناقل
+TRANSMISSIVITY|نفاذية
+TRANSMUTATIONAL|تحويلي
+TRANSMUTER|مُحوِّل
+TRANSMUTERS|مُحوِّلون
+TRANSPARENCE|شفافية
+TRANSPLANTER|ناقل؛ مُزارِع
+TRANSPORTERS|ناقلون
+TRANSPOSER|مُبدِّل
+TRANSPOSERS|مُبدِّلون
+TRANSVESTISM|التشبّه بالجنس الآخر
+TRAPAN|يخدع؛ فخ
+TRAPANS|يخدع؛ فخاخ
+TRAPPIST|راهب ترابيست
+TRASHINESS|تفاهة
+TRAVELLERS|مسافرون
+TRAVERSABLE|قابل للعبور
+TRAVERSER|عابر
+TRAVERSERS|عابرون
+TREADLER|دوّاس
+TREASURABLE|ثمين
+TREATER|مُعالِج؛ مُفاوِض
+TREATERS|مُعالِجون
+TREMBLER|مرتجف
+TREMBLERS|مرتجفون
+TREMBLY|مرتعش
+TRENDINESS|عصرية؛ موضة
+TREPANG|خيار البحر
+TREWS|بنطال تارتان
+TRIBALISM|قبلية
+TRICKERS|مُحتالون
+TRIDENTATE|ثلاثي الأسنان
+TRIER|مُحاوِل؛ مُمتحِن
+TRIERS|مُحاوِلون
+TRILBIES|قبعات ناعمة
+TRILBY|قبعة ناعمة
+TRIPODAL|ثلاثي القوائم
+TRIPOS|امتحان التخرج (كامبريدج)
+TRIPPER|سائح؛ عابر
+TRIPPERS|سيّاح
+TRIUMPHER|منتصر
+TRIVIALIZATION|تتفيه
+TROJAN|طروادي
+TROLLY|عربة
+TROUBLER|مُزعِج
+TROUBLERS|مُزعِجون
+TROUBLOUS|مضطرب
+TROVE|كنز
+TROWSERS|بنطلون
+TRUCKLER|متذلّل
+TRUCKLERS|متذلّلون
+TRUCULENCY|عدوانية؛ شراسة
+TRUDGER|سائر متثاقل
+TRUDGERS|سائرون متثاقلون
+TRUEBLUE|وفيّ؛ مخلص
+TRUNDLER|داحرِج
+TRUNDLERS|داحرِجون
+TRUSTER|واثق
+TRUSTERS|واثقون
+TUBBABLE|قابل للغسل
+TUBBER|مغتسل
+TUBBINESS|امتلاء؛ سِمنة
+TUBERCULOUS|درني؛ سلّي
+TUBERCULOUSLY|بشكل درني
+TUBFUL|ملء حوض
+TUBULARITY|أنبوبية
+TUESDAYS|أيام الثلاثاء
+TUFTER|مُنفِّش
+TUFTY|خصلي
+TUGGER|ساحب
+TUGGERS|ساحبون
+TUITIONAL|تعليمي
+TUITIONARY|تعليمي
+TUMBLERFUL|ملء كأس
+TUMBRIL|عربة بقرية
+TUMIDITY|انتفاخ
+TUMORAL|ورمي
+TUMOROUS|ورمي
+TUMOUR|ورم
+TUNNELER|حفّار أنفاق
+TUNNELLER|حفّار أنفاق
+TUNNIES|أسماك التونة
+TUNNY|سمك التونة
+TUP|كبش؛ ينطح
+TUPPED|نطح
+TUPPENCE|بنسان
+TUPPENNY|ببنسين
+TUPS|كباش
+TURBIDITY|عكارة
+TURFY|عشبي
+TURNSPIT|مِشواة دوّارة
+TURNUP|ثنية البنطال
+TURPS|زيت التربنتين
+TUT|تسخ! (استنكار)
+TUTELAR|حامٍ؛ وصائي
+TUTELARS|حُماة
+TUTORSHIP|منصب المعلّم الخاص
+TWADDLER|ثرثار تافه
+TWADDLERS|ثرثارون تافهون
+TWAIN|اثنان
+TWEEN|بين
+TWERP|أحمق
+TWIDDLER|عابث؛ مُدوِّر
+TWINKLER|وامض
+TWINKLERS|وامضون
+TWIRP|أحمق
+TWISTABILITY|قابلية الالتواء
+TWISTABLE|قابل للالتواء
+TWITTERER|مغرِّد
+TWIXT|بين
+TWOPENCE|بنسان
+TWOPENNY|ببنسين
+TYKE|كلب؛ طفل شقي
+TYKES|كلاب؛ أطفال أشقياء
+TYPHOUS|تيفوسي
+TYPIC|نموذجي
+TYPIFICATION|تمثيل نموذجي
+TYPIFIER|ممثِّل نموذجي
+TYRANNIC|استبدادي
+TYRANNIZER|مستبدّ
+TZARINA|قيصرة
+UGLIFICATION|تقبيح
+UGLIFIED|قبّح
+UGLIFIES|يقبّح
+UGLIFY|يقبّح
+ULNAR|زندي
+ULSTER|معطف طويل
+ULSTERS|معاطف طويلة
+ULTIMACY|نهائية
+ULTRAMONTANE|ما وراء الجبال؛ بابوي
+ULULANT|عاوٍ
+UMBRAGEOUS|مُظلِّل؛ سريع الاستياء
+UNANSWERABILITY|استحالة الرد
+UNAVOIDABILITY|حتمية
+UNBACKED|بلا دعم
+UNBIASSED|محايد
+UNBID|غير مدعوّ؛ غير مطلوب
+UNBOSOM|يبوح؛ يفضي
+UNBOSOMED|باح؛ أفضى
+UNBOSOMER|مُفضٍ بسرّه
+UNBOSOMS|يبوح؛ يفضي
+UNCANNINESS|غرابة مخيفة
+UNCLEANLIER|أكثر قذارة
+UNCLEANLIEST|الأكثر قذارة
+UNCLEANLINESS|قذارة
+UNCO|غريب؛ جدًا
+UNCOLOURED|عديم اللون
+UNCOS|غرباء
+UNCOUPLER|فاصل؛ مفكِّك
+UNCOUPLERS|فاصلون؛ مفكِّكون
+UNCROWNED|غير متوَّج
+UNCTUOSITY|دهنية؛ تملّق
+UNDEFENDED|غير محمي
+UNDERACT|يؤدي بتقصير
+UNDERBIDDER|مُقدِّم عطاء أقل
+UNDERFLOOR|تحت الأرضية
+UNDERHUNG|متدلٍّ للأسفل
+UNDERMENTIONED|المذكور أدناه
+UNDERNOURISH|يُسيء التغذية
+UNDERNOURISHES|يُسيء التغذية
+UNDERNOURISHMENT|سوء التغذية
+UNDERPOPULATED|قليل السكان
+UNDERPOPULATION|قلة السكان
+UNDERPRICE|يبيع بأقل من السعر
+UNDERPRODUCTIVE|قليل الإنتاج
+UNDERSEXED|ضعيف الدافع الجنسي
+UNDERSLUNG|معلّق من الأسفل
+UNDIES|ملابس داخلية
+UNDISCHARGED|غير مُسدَّد
+UNDOCK|يفكّ من الميناء
+UNDOCKED|فُكّ من الميناء
+UNDOCKS|يفكّ من الميناء
+UNDOER|مُبطِل؛ مُفسِد
+UNDOERS|مُبطِلون
+UNDREAMT|لم يُحلَم به
+UNDULATORY|تموّجي
+UNENDURABLY|بشكل لا يُحتمل
+UNEQUALLED|منقطع النظير
+UNFOLDMENT|انكشاف؛ تكشّف
+UNFORGETTABILITY|عدم قابلية للنسيان
+UNGENEROSITY|بخل
+UNGENEROUS|بخيل
+UNGENEROUSLY|ببخل
+UNGODLINESS|فجور؛ إلحاد
+UNGUENTARY|مرهمي
+UNHEALTHINESS|اعتلال؛ عدم صحّية
+UNHOLINESS|عدم قداسة
+UNILATERALISM|الأحادية الجانبية
+UNITARIAN|توحيدي
+UNITARIANISM|التوحيدية
+UNITARIANS|توحيديون
+UNITIVE|موحِّد
+UNIVERSALISM|الشمولية
+UNIVERSALIST|شمولي
+UNIVERSALISTS|شموليون
+UNKINDLINESS|قسوة؛ عدم لطف
+UNLOADER|مُفرِّغ
+UNLOADERS|مُفرِّغون
+UNMANNERLINESS|فظاظة
+UNORTHODOXY|عدم تقليدية
+UNPARLIAMENTARY|غير لائق برلمانيًا
+UNPLACED|غير مصنَّف
+UNPRACTISED|غير ممارَس؛ قليل الخبرة
+UNPROMPTED|تلقائي
+UNPROVIDED|غير مزوَّد
+UNPUTDOWNABLE|شيّق لا يُترك
+UNRIVALLED|منقطع النظير
+UNSAVORINESS|عدم استساغة
+UNSAVOURILY|بطريقة غير مستساغة
+UNSAVOURINESS|عدم استساغة
+UNSAVOURY|مقزّز؛ سيء السمعة
+UNSCRAMBLER|فاكّ التشفير
+UNSCRAMBLERS|فاكّو التشفير
+UNSCRIPTED|ارتجالي
+UNSOCIAL|غير اجتماعي
+UNSOPHISTICATION|سذاجة؛ بساطة
+UNSYLLABIC|غير مقطعي
+UNTIMELINESS|فوات الأوان
+UNTOUCHABILITY|عدم قابلية اللمس
+UNWIELDINESS|ثقل؛ صعوبة الإدارة
+UPBRAIDER|مُوبِّخ
+UPBRAIDINGLY|بتوبيخ
+UPLANDER|ساكن المرتفعات
+UPLANDERS|سكان المرتفعات
+UPLIFTER|رافع؛ مُسمٍّ
+UPLIFTERS|رافعون
+UPLIFTMENT|ارتقاء؛ رفع
+UPMOST|الأعلى
+UPPERCASE|أحرف كبيرة
+UPPISH|متعالٍ
+UPPISHLY|بتعالٍ
+UPPISHNESS|تعالٍ
+UPROOTER|مُقتلِع
+UPROOTERS|مُقتلِعون
+UPSETTER|مُزعِج؛ مُقلِب
+UPSETTERS|مُزعِجون
+URBANISTIC|عمراني
+URGER|حاثّ
+URGERS|حاثّون
+USABILITY|قابلية الاستخدام
+USANCE|عُرف؛ فائدة
+USEABLE|قابل للاستعمال
+USEABLY|بشكل قابل للاستعمال
+USHERETTE|مرشدة قاعة
+USURPINGLY|باغتصاب
+UTILIZABLE|قابل للاستغلال
+UTILIZER|مُستغِلّ
+UTILIZERS|مُستغِلّون
+UTTERABLE|يمكن النطق به
+UTTERER|ناطق؛ مُروِّج
+UTTERERS|ناطقون
+VAC|إجازة؛ مكنسة
+VACATIONIST|مُجازِف؛ سائح
+VACATIONISTS|سيّاح
+VAGABONDAGE|تشرّد
+VALENCIES|تكافؤات
+VALENCY|تكافؤ
+VALIANCE|شجاعة
+VALIANCY|شجاعة
+VALUABLY|بقيمة
+VALUER|مُقيِّم
+VALUERS|مُقيِّمون
+VALVULAR|صمّامي
+VAMPER|مُرقِّع؛ عازف ارتجالي
+VANDALIC|تخريبي
+VANISHER|مُختفٍ
+VANQUISHABLE|قابل للهزيمة
+VANQUISHMENT|هزيمة؛ قهر
+VAPOUR|بخار
+VAPOURS|أبخرة
+VARICOLOURED|متعدد الألوان
+VARIFORM|متعدد الأشكال
+VARLET|وغد؛ خادم
+VARNISHER|مُلمِّع بالورنيش
+VAUNTER|متفاخر
+VAUNTERS|متفاخرون
+VAUNTINGLY|بتفاخر
+VEALER|عجل للذبح
+VEHEMENCY|حدّة؛ شدة
+VELD|سهل أفريقي
+VENDEE|مشترٍ
+VENDEES|مشترون
+VENERABLY|بتبجيل
+VENTER|بطن؛ منفّس
+VENTRILOQUY|التكلّم من البطن
+VENTURER|مُغامِر
+VENTURERS|مُغامِرون
+VENTUROUS|مُغامِر؛ جريء
+VENTUROUSLY|بمغامرة
+VENTUROUSNESS|جرأة
+VERDANCY|خضرة
+VERMILLION|قرمزي؛ أحمر ناري
+VERMINOUS|موبوء بالحشرات
+VERMINOUSLY|بوباء الحشرات
+VERRUCA|ثؤلول
+VERRUCAE|ثآليل
+VERTEBRATION|تفقّر؛ تقسيم إلى فقرات
+VESTRYMAN|عضو مجلس الكنيسة
+VETOER|ناقض
+VEXER|مُغيظ
+VIBRANCE|اهتزاز؛ حيوية

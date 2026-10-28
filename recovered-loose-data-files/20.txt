@@ -1,0 +1,349 @@
+VICARSHIP|منصب النائب الكنسي
+VICEREGAL|نيابي ملكي
+VICEREINE|زوجة نائب الملك
+VICTORIANS|فيكتوريون
+VICTUALER|مُموِّن
+VICTUALERS|مُموِّنون
+VICTUALLER|مُموِّن
+VICTUALLERS|مُموِّنون
+VICUNA|فيكونا؛ حيوان أنديزي
+VIDELICET|أي؛ يعني
+VIGOUR|قوة؛ حيوية
+VILIFIER|مُشهِّر؛ شاتم
+VILLEIN|قِنّ
+VINDICATOR|مُبرِّئ؛ مُدافِع
+VINDICATORS|مُبرِّئون؛ مدافعون
+VINERIES|بيوت زجاجية للعنب
+VINERY|بيت زجاجي للعنب
+VINO|نبيذ
+VINOES|نبيذ
+VINOS|نبيذ
+VINOSITY|خمرية
+VIRTUALITY|افتراضية
+VISCOUNTCIES|رتب فيكونت
+VISCOUNTCY|رتبة فيكونت
+VISCOUNTESS|فيكونتيسة
+VISIONAL|رؤيوي
+VISIONALLY|رؤيويًا
+VISITATIONAL|زياري؛ تفتيشي
+VITALISM|الحيوية؛ المذهب الحيوي
+VITALIST|حيوي المذهب
+VITALIZER|مُحيٍ؛ مُنشِّط
+VITAMINIC|فيتاميني
+VITIABLE|قابل للإفساد
+VITIATOR|مُفسِد
+VITREOSITY|زجاجية
+VITRIFIABILITY|قابلية التزجيج
+VITRIFIABLE|قابل للتزجيج
+VITRIFICATION|تزجيج
+VIVACE|بحيوية (موسيقى)
+VIVIPARITY|ولادة حية
+VIVISECTIONALLY|بالتشريح الحي
+VIVISECTIONIST|مُشرِّح حي
+VIVISECTOR|مُشرِّح حي
+VIXENISH|شرسة؛ عنيدة
+VIXENISHLY|بشراسة
+VIZ|أي؛ وهو
+VIZIERATE|وزارة؛ منصب الوزير
+VIZIERIAL|وزاري
+VIZIR|وزير
+VIZOR|حاجز الخوذة
+VIZORED|مُقنَّع
+VIZORS|حواجز الخوذة
+VOCALIZER|مُصوِّت
+VOCALIZERS|مُصوِّتون
+VOCIFERATOR|صارخ؛ مُصيح
+VOCIFERATORS|صارخون
+VOIDER|مُفرِّغ؛ مُبطِل
+VOIDERS|مُفرِّغون
+VOLLEYER|ضارب الكرة قبل ارتدادها
+VOLLEYERS|ضاربو الكرة
+VOLTE|دوران؛ حركة التفاف
+VOLUMINOSITY|ضخامة؛ كثرة
+VOLUNTARINESS|طواعية
+VOMITER|مُتقيِّئ
+VOODOOISM|السحر الفودو
+VOODOOIST|ممارس الفودو
+VOODOOISTIC|فودوي
+VOODOOISTS|ممارسو الفودو
+VOTABLE|قابل للتصويت
+VOTEABLE|قابل للتصويت
+VOTELESS|بلا حق تصويت
+VOUCHSAFEMENT|منحة؛ إنعام
+VOWER|ناذر
+VOWERS|ناذرون
+VOX|صوت
+VULGARIAN|فظّ الذوق؛ مبتذل
+VULGARIANS|مبتذلون
+VULVAL|فرجي
+VULVAR|فرجي
+VULVIFORM|شكل فرجي
+WABBLE|يترنّح
+WADDLER|متهادٍ
+WADDLERS|متهادون
+WADER|خائض؛ طائر خوّاض
+WADERS|خائضون؛ أحذية خوض
+WADI|وادٍ
+WADIES|وديان
+WADIS|وديان
+WADY|وادٍ
+WAGERER|مُراهِن
+WAGGER|هزّاز؛ مُمازح
+WAGGLY|متمايل
+WAGGON|عربة
+WAGGONER|سائق عربة
+WAGGONERS|سائقو عربات
+WAGGONS|عربات
+WAGONER|سائق عربة
+WAGONERS|سائقو عربات
+WAILER|نائح
+WAILERS|نائحون
+WAIN|عربة
+WAINS|عربات
+WALKAWAY|نصر سهل
+WALKAWAYS|انتصارات سهلة
+WALLA|مسؤول؛ عامل
+WALLAH|عامل؛ مسؤول
+WALLOPER|ضارب
+WALLOPERS|ضاربون
+WALLOWER|متمرّغ
+WALTZER|راقص الفالس
+WALTZERS|راقصو الفالس
+WANGLER|مُدبِّر؛ مُحتال
+WANK|استمناء (عامي)
+WANNA|يريد أن
+WANNED|شحب
+WARDERSHIP|حراسة؛ منصب حارس
+WARDRESS|حارسة سجن
+WARDRESSES|حارسات سجن
+WARNERS|مُحذِّرون
+WARPER|مُلوٍّ؛ مُسدٍ
+WARRANTABLE|مُبرَّر؛ مسوَّغ
+WARRANTABLENESS|مسوِّغية
+WARRANTABLY|بتسويغ
+WARRANTER|ضامن
+WARRANTERS|ضامنون
+WASHIER|أكثر ركاكة
+WASHIEST|الأكثر ركاكة
+WASHINESS|ركاكة؛ ميوعة
+WASHY|ضعيف؛ مائي
+WASPIER|أكثر حدّة
+WASPIEST|الأكثر حدّة
+WASPY|دبوري؛ حاد
+WATCHMAKING|صناعة الساعات
+WATERBIRD|طائر مائي
+WATERBIRDS|طيور مائية
+WATERER|سقّاء؛ مروٍّ
+WATERFINDER|مُنقِّب عن الماء
+WATERHEN|دجاجة الماء
+WATERMAN|مُجدِّف؛ بحّار نهري
+WATERMEN|مُجدِّفون
+WATERMILLS|طواحين مائية
+WATERTABLE|مستوى المياه الجوفية
+WAVERER|متردّد
+WAXPAPER|ورق شمعي
+WAYLAYER|قاطع طريق
+WAYLAYERS|قطّاع طرق
+WEAKENER|مُضعِف
+WEAKLINESS|ضعف؛ هزال
+WEALD|منطقة حرجية
+WEALTHINESS|ثراء
+WEAPONLESS|أعزل
+WEARABILITY|قابلية الارتداء
+WEATHERBOARD|لوح الطقس
+WEATHERBOARDING|تكسية ألواح الطقس
+WEBFOOT|قدم غشائية
+WEDNESDAYS|أيام الأربعاء
+WEENIER|أكثر ضآلة
+WEENIEST|الأكثر ضآلة
+WEENY|صغير جدًا
+WEEPER|باكٍ
+WEEPERS|باكون
+WEEVILY|مُسوَّس
+WEIGHER|وازن
+WEIRDIE|غريب الأطوار
+WEIRDY|غريب الأطوار
+WELCOMERS|مُرحِّبون
+WELLADAY|يا للأسف
+WELLADAYS|يا للأسف
+WELLAWAY|يا للأسف
+WELLAWAYS|يا للأسف
+WELLHEAD|منبع البئر
+WERWOLF|إنسان ذئب
+WESLEYAN|وسلياني؛ ميثودي
+WESLEYANISM|الوسليانية
+WETHER|خروف مخصيّ
+WHANG|يضرب بصوت مدوٍّ
+WHANGED|ضرب بصوت مدوٍّ
+WHANGS|يضرب بصوت مدوٍّ
+WHARFAGE|رسوم الرصيف
+WHEEDLER|مُتملِّق
+WHEEDLINGLY|بتملّق
+WHEELBASE|قاعدة العجلات
+WHEELBASES|قواعد العجلات
+WHEELHOUSE|مقصورة القيادة
+WHEELWRIGHT|صانع العجلات
+WHEEZINESS|أزيز التنفس
+WHENCESOEVER|من أي مكان
+WHERESOEVER|أينما
+WHERRIES|قوارب خفيفة
+WHERRY|قارب خفيف
+WHEW|أوف!
+WHICHSOEVER|أيًّا كان
+WHIMPERER|مُنتحِب
+WHIMSEY|نزوة
+WHIMSEYS|نزوات
+WHIN|الأرتيل؛ شجيرة شائكة
+WHIPPER|جالد
+WHIPPERS|جالدون
+WHIPPY|مرِن
+WHIRLER|مُدوِّم
+WHIRR|يطنّ؛ طنين
+WHISKERY|شاربي؛ كثّ الشعر
+WHISPERER|هامس
+WHISPERERS|هامسون
+WHITEBAIT|صغار السمك
+WHITEHALL|وايت هول؛ الحكومة البريطانية
+WHITEWASHERS|مبيّضو الجدران
+WHITHERSOEVER|إلى حيثما
+WHITSUN|عيد العنصرة
+WHITSUNTIDE|أسبوع العنصرة
+WHIZZ|يزن؛ صفير سريع
+WHOP|يضرب
+WHOPPED|ضرب
+WHOPS|يضرب
+WICKETKEEPER|حارس المرمى (كريكيت)
+WICKETKEEPERS|حرّاس المرمى (كريكيت)
+WIDEAWAKENESS|يقظة تامة
+WIDENER|مُوسِّع
+WIDOWERHOOD|ترمّل الرجل
+WIELDABLE|يمكن التحكم به
+WIFEHOOD|الزوجية
+WIFELIKE|كالزوجة
+WIGGLY|متلوٍّ
+WILDERMENT|حيرة؛ ضياع
+WILFUL|متعمَّد؛ عنيد
+WILFULLY|عمدًا
+WILFULNESS|عناد؛ تعمّد
+WILLIES|مخاوف
+WILTON|سجاد ويلتون
+WINCER|مجفِل
+WINCHER|مُشغِّل الونش
+WINCHERS|مُشغِّلو الونش
+WINDBREAKER|سترة واقية من الريح
+WINDBREAKERS|سترات واقية من الريح
+WINDFLOWER|شقائق النعمان
+WINDSWEPT|تعصف به الرياح
+WINEPRESS|معصرة نبيذ
+WINEPRESSES|معاصر نبيذ
+WINKLE|حلزون بحري
+WINNOWER|مُذرٍّ
+WINNOWERS|مُذرّون
+WINTERIER|أكثر شتوية
+WINTERIEST|الأكثر شتوية
+WINTERY|شتوي
+WINTRINESS|برودة شتوية
+WIREWORM|دودة سلكية
+WISHER|مُتمنٍّ
+WISHERS|مُتمنّون
+WISTARIA|الوستارية
+WITHE|غصن مرن
+WITHHOLDER|مانع؛ مُمسِك
+WITHIES|أغصان مرنة
+WITHSTANDER|مُقاوِم
+WITHY|غصن الصفصاف
+WITNESSER|شاهد
+WOADS|نيلج
+WOBBLER|مُترنِّح
+WOFUL|حزين؛ بائس
+WOLD|هضبة
+WONDERER|متعجّب
+WONDERERS|متعجّبون
+WONKIER|أكثر عدم ثبات
+WONKIEST|الأكثر عدم ثبات
+WONKY|مهزوز؛ غير ثابت
+WOODCUTTING|قطع الأخشاب
+WOODIE|سيارة بأخشاب جانبية
+WOODLANDER|ساكن الغابات
+WOODLANDERS|سكان الغابات
+WOODLICE|قمّل الخشب
+WOODMAN|حطّاب
+WOODMEN|حطّابون
+WOODWORM|سوس الخشب
+WOOLGATHERER|شارد الذهن
+WOOLIER|أكثر صوفية
+WOOLIES|ملابس صوفية
+WOOLIEST|الأكثر صوفية
+WOOLLEN|صوفي
+WOOLLENS|ملابس صوفية
+WOOLLINESS|صوفية؛ غموض
+WOOLSACK|كيس صوف
+WORKBAG|حقيبة أدوات
+WORKBAGS|حقائب أدوات
+WORKFILE|ملف عمل
+WORKFILES|ملفات عمل
+WORMINESS|كثرة الديدان
+WORSHIPER|عابد
+WORSHIPERS|عابدون
+WOTCHER|أهلًا (تحية عامية)
+WREATHY|إكليلي؛ ملتف
+WRESTER|لاوٍ؛ مُنتزِع
+WRICK|يلوي؛ التواء
+WRIGGLER|مُتلوٍّ
+WRIGGLERS|مُتلوّون
+WRIGGLY|مُتلوٍّ
+WRIGHT|صانع؛ حِرَفي
+WRINKLY|مجعّد
+WRISTLET|سوار المعصم
+WRISTLETS|أساور المعصم
+WRITHER|مُتلوٍّ ألمًا
+XEROX|يستنسخ؛ نسخة مصوّرة
+XHOSAS|شعب الخوسا
+XMAS|عيد الميلاد
+XOSA|الخوسا
+XOSAS|الخوسا
+YACHTSMANSHIP|مهارة الإبحار باليخوت
+YACK|ثرثرة
+YACKED|ثرثر
+YACKS|يثرثر
+YAH|يا؛ تعبير سخرية
+YAMEN|مقر مسؤول صيني
+YANKEES|يانكي؛ أمريكيون
+YAOUNDE|ياوندي
+YAPPER|نابح؛ ثرثار
+YASHMAC|حجاب الوجه
+YAWNER|متثائب
+YEASTINESS|خمرية؛ رغوة
+YEH|نعم
+YELLER|صارخ
+YELLERS|صارخون
+YELPER|نابح؛ عاوٍ
+YEOMANRY|طبقة صغار الملاك
+YESTER|أمس
+YIELDER|مُنتِج؛ مُذعِن
+YOB|بلطجي
+YOBBO|بلطجي
+YOBO|بلطجي
+YODELER|مُغنٍّ باليودل
+YODELLER|مُغنٍّ باليودل
+YOGHOURT|زبادي
+YOLKY|مُصفَرّ البيض
+YOWL|عواء؛ يعوي
+YOWLED|عوى
+YOWLS|يعوي
+YULE|عيد الميلاد
+YULETIDE|موسم عيد الميلاد
+ZANINESS|غرابة؛ هزل
+ZEALOTRY|تعصّب
+ZEBU|ثور الزيبو
+ZENITHAL|سمتي
+ZIONISTIC|صهيوني
+ZITHERIST|عازف القيثارة
+ZITHERN|قيثارة
+ZOMBI|زومبي
+ZONAL|منطقي؛ إقليمي
+ZONK|يضرب؛ ينهك
+ZONKS|يضرب؛ ينهك
+ZOOLOGIC|حيواني
+ZULU|زولو
+ZULUS|شعب الزولو

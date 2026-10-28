@@ -1,0 +1,400 @@
+DUSTMEN|عمال نظافة
+DUTCHMEN|هولنديون
+DUTEOUS|مطيع؛ مُمتثِل
+DUTEOUSLY|بطاعة؛ بامتثال
+DYARCHY|حكم ثنائي
+DYKED|مُسوَّر بسدّ
+DYKES|سدود؛ جسور
+DYSTROPHIA|ضمور؛ سوء تغذية الأنسجة
+EARDROP|قرط؛ نقطة للأذن
+EARLINESS|تبكير؛ كون الشيء مبكرًا
+EARPIECE|سمّاعة الأذن
+EARTHLINESS|دنيوية؛ ترابية
+EARTHNUT|فول سوداني؛ درنة أرضية
+EASEFUL|مريح؛ هادئ
+EASTERS|أعياد الفصح
+EBBTIDE|جزر؛ انحسار المد
+EBULLIENCY|حماسة؛ فوران
+ECCLESIASTICISM|نزعة كنسية
+ECHOER|مُردِّد صدى
+ECLAT|تألق؛ نجاح باهر
+ECOLOGIC|بيئي
+ECUMENIC|مسكوني
+ECUMENICALISM|المسكونية
+EDGELESS|بلا حافة؛ بلا حدّ
+EDGER|مُشذِّب الحواف
+EDIFIER|مُهذِّب؛ مُنوِّر
+EDUCATIONALIST|مُربٍّ؛ خبير تعليم
+EDUCATIONALISTS|مُربّون؛ خبراء تعليم
+EDUCATIONIST|مُربٍّ؛ خبير تعليم
+EDUCATIVE|تثقيفي؛ تربوي
+EDUCTION|استخراج؛ استنباط
+EERINESS|غرابة مخيفة
+EERY|مخيف؛ غريب
+EFFACEABLE|قابل للمحو
+EFFACER|ماحٍ؛ مُزيل
+EFFECTER|مُنفِّذ؛ مُحقِّق
+EFFECTERS|مُنفِّذون؛ مُحقِّقون
+EFFECTIVITY|فعالية
+EFFECTUALITY|فعالية؛ جدوى
+EFFERVESCENCY|فوران؛ نشاط
+EFFLUXION|تدفّق؛ انسياب
+EFFORTFUL|مجهِد؛ مبذول بجهد
+EFFORTFULLY|بجهد؛ بمشقة
+EFT|سحلية الماء؛ أيضًا
+EGGCUP|كوب بيضة
+EGGCUPS|أكواب بيض
+EGOISTICAL|أناني
+EGYPTIANS|مصريون
+EH|هه؟ ماذا؟
+EIGHTPENCE|ثمانية بنسات
+EIGHTSOME|مجموعة من ثمانية؛ رقصة
+ELABORATOR|مُفصِّل؛ مُتقِن
+ELABORATORS|مُفصِّلون؛ مُتقِنون
+ELAN|حماس؛ اندفاع
+ELDERSHIP|مشيخة؛ منصب شيخ
+ELECTABILITY|قابلية الانتخاب
+ELECTABLE|صالح للانتخاب
+ELECTRIFIABLE|قابل للكهربة
+ELECTRIFIER|مُكهرِب
+ELEGANCY|أناقة؛ رقّة
+ELEGIACAL|رثائي
+ELEGIACALLY|بأسلوب رثائي
+ELEMENTARINESS|بدائية؛ بساطة
+ELIGIBLY|بأهلية؛ على نحو مؤهِّل
+ELLIPTICITY|إهليلجية
+ELOPER|هارب للزواج
+ELVER|ثعبان بحري صغير
+ELVISH|جنّي؛ شقي
+ELYSIAN|فردوسي؛ نعيمي
+ELYSIUM|الفردوس؛ جنة
+EMANATIVE|منبعث؛ صادر
+EMASCULATIVE|مُخصٍ؛ مُضعِف
+EMBALMMENT|تحنيط
+EMBARKMENT|ركوب؛ شحن
+EMBEDMENT|تضمين؛ غرس
+EMBITTERMENT|إمرار؛ تمرير
+EMBLEMATICAL|رمزي؛ شعاري
+EMBOSSER|مُنقِّش بارز
+EMBRACEMENT|عناق؛ احتضان
+EMBRACER|مُعانِق
+EMBRACERS|مُعانِقون
+EMBROCATION|مَسُوح؛ دهان علاجي
+EMBRYONAL|جنيني
+EMBRYONICALLY|بشكل جنيني
+EMEER|أمير
+EMEERS|أمراء
+EMENDER|مُصحِّح؛ مُنقِّح
+EMETICALLY|بشكل مُقيِّئ
+EMIGRE|مهاجر؛ لاجئ سياسي
+EMIGRES|مهاجرون؛ لاجئون سياسيون
+EMINENCY|سموّ؛ علوّ المقام
+EMOTIVITY|عاطفية؛ تأثّر
+EMPALE|يخوزق؛ يطعن
+EMPANEL|يُدرِج في هيئة المحلفين
+EMPERORSHIP|منصب إمبراطور
+EMPIRIC|تجريبي؛ دجّال
+EMPLANE|يركب الطائرة
+EMPLANED|ركب الطائرة
+EMPLANES|يركب الطائرة
+EMPLOYE|موظف
+EMPURPLE|يصبغ بالأرجواني
+EMPURPLED|صبغ بالأرجواني
+EMPURPLES|يصبغ بالأرجواني
+EMULATIVE|مُحاكٍ؛ مُنافِس
+EMULATIVELY|بمحاكاة؛ بمنافسة
+EMULSIVE|مستحلبي
+ENAMELER|مُطلي بالمينا
+ENAMOUR|يُعجِب؛ يُغرِم
+ENAMOURED|مُغرَم؛ مُعجَب
+ENAMOURS|يُغرِم؛ يُعجِب
+ENCHAINMENT|تقييد بالسلاسل
+ENCOMPASSMENT|إحاطة؛ تطويق
+ENCOURAGER|مُشجِّع
+ENCOURAGERS|مُشجِّعون
+ENCROACHER|مُتعدٍّ؛ مُتجاوِز
+ENCYCLOPAEDIA|موسوعة
+ENCYCLOPAEDIC|موسوعي
+ENCYCLOPEDICALLY|بشكل موسوعي
+ENDEAVORER|مُجتهِد؛ مُحاوِل
+ENDEAVOUR|سعي؛ مجهود
+ENDEAVOURED|سعى؛ حاول
+ENDEAVOURER|ساعٍ؛ مجتهد
+ENDEAVOURS|يسعى؛ مساعٍ
+ENDEMICALLY|بشكل متوطّن
+ENDORSOR|مُظهِّر؛ مُؤيِّد
+ENDPAPER|ورقة غلاف داخلية
+ENDURABLY|بشكل محتمَل
+ENDWAYS|بشكل طولي؛ نهايةً
+ENERVATOR|مُضعِف
+ENERVATORS|مُضعِفون
+ENFEEBLER|مُضعِف
+ENFEEBLERS|مُضعِفون
+ENFOLDER|مُلفِّف؛ مُحتضِن
+ENGAGER|مُوظِّف؛ مُشغِّل
+ENGAGERS|مُوظِّفون؛ مُشغِّلون
+ENGLISHWOMEN|إنجليزيات
+ENGRAFTMENT|تطعيم؛ إدخال
+ENGROSSER|مُستحوِذ؛ مُدوِّن
+ENGULFMENT|ابتلاع؛ غمر
+ENHANCER|مُعزِّز؛ مُحسِّن
+ENHANCIVE|مُعزِّز؛ محسِّن
+ENIGMATICAL|لغزي؛ غامض
+ENJOINER|آمِر؛ مُلزِم
+ENJOINMENT|أمر؛ إلزام
+ENJOYER|مُستمتِع
+ENKINDLER|مُشعِل؛ مُثير
+ENLIGHTENER|مُنوِّر
+ENLIVENER|مُنعِش؛ مُحيِي
+ENQUIRE|يستفسر؛ يستعلم
+ENQUIRY|استفسار؛ تحقيق
+ENRAPTUREMENT|نشوة؛ ابتهاج
+ENRICHER|مُثرٍ؛ مُغنٍ
+ENROL|يسجّل؛ يقيّد
+ENROLMENT|تسجيل؛ قيد
+ENROLS|يسجّل؛ يقيّد
+ENSHRINEMENT|تقديس؛ حفظ في ضريح
+ENSLAVER|مُستعبِد
+ENSLAVERS|مُستعبِدون
+ENSNAREMENT|إيقاع في الفخّ
+ENSNARER|مُوقِع في الفخّ
+ENTANGLER|مُوقِع في التشابك
+ENTERPRISER|مُباشِر مشروعات
+ENTHRAL|يأسر؛ يسحر
+ENTICER|مُغرٍ؛ مُستدرِج
+ENTRACTE|فاصل بين فصلين مسرحيين
+ENTRAINMENT|الصعود إلى القطار؛ الانجرار
+ENTRANCEMENT|سحر؛ نشوة
+ENTREATMENT|رجاء؛ التماس
+ENTREE|مدخل؛ الطبق الرئيسي
+ENTREES|مداخل؛ أطباق رئيسية
+ENTREPOT|مستودع؛ ميناء تجارة عبور
+ENUNCIABLE|يمكن التعبير عنه
+ENUNCIATIVE|إعلاني؛ تعبيري
+ENUNCIATIVELY|بشكل تعبيري
+ENVELOPER|مُغلِّف
+ENVIER|حاسد
+ENVIRONED|محاط؛ مُطوَّق
+ENVYINGLY|بحسد
+ENZYMATICALLY|إنزيميًا
+EONIAN|دهري؛ أزلي
+EPAULETTE|كتّافة؛ شارة الكتف
+EPEE|سيف المبارزة
+EPEEIST|مبارز بالسيف
+EPEES|سيوف المبارزة
+EPHEMERALITY|زوال؛ سرعة الفناء
+EPICENTRAL|مركزي زلزالي
+EPIDEMICAL|وبائي
+EPIDEMICALLY|بشكل وبائي
+EPIDIASCOPE|جهاز عرض الصور المعتمة
+EPIGLOTTIC|لهوي؛ متعلق بلسان المزمار
+EPISCOPAL|أسقفي
+EPISCOPALIAN|أسقفي؛ عضو الكنيسة الأسقفية
+EPISCOPALLY|على النهج الأسقفي
+EPISODICAL|عرضي؛ مقتطف
+EPISODICALLY|بشكل عرضي
+EPITHETIC|نعتي؛ وصفي
+EPITHETICAL|نعتي؛ وصفي
+EQUALITARIAN|مساواتي
+EQUATIONAL|معادلاتي
+EQUATIONALLY|بشكل معادلاتي
+EQUIDISTANCE|تساوي البعد
+ERADICABLE|يمكن استئصاله
+ERADICATIVE|استئصالي
+ERASABILITY|قابلية المحو
+ERECTABLE|قابل للنصب
+ERECTILE|انتصابي؛ قابل للانتصاب
+EREMITIC|نسكي؛ زاهد
+EREMITICAL|نسكي؛ زاهد
+EROGENIC|مثير للشهوة
+EROSIONAL|تعرويّ؛ حتّي
+EROSIONALLY|بالتعرية
+EROTISM|شبقية؛ نزعة جنسية
+ESCALOPE|شريحة لحم رقيقة
+ESCAPEMENT|ميزان الساعة؛ مخرج
+ESCAPER|هارب
+ESCAPERS|هاربون
+ESCHEWAL|تجنُّب؛ امتناع
+ESKIMO|إسكيمو
+ESKIMOAN|إسكيمي
+ESLAM|إسلام
+ESPOUSER|مُناصِر؛ مُتبنٍّ
+ESSAYER|مُحاوِل؛ كاتب مقالات
+ESSENTIALITY|جوهرية؛ ضرورة
+ESTABLISHER|مُؤسِّس؛ مُثبِت
+ESTABLISHERS|مُؤسِّسون
+ESTAMINET|مقهى صغير
+ESTRANGER|مُنفِّر
+ESTRANGERS|مُنفِّرون
+ESTUARIAL|مصبّي
+ETCETERA|وهكذا؛ إلخ
+ETCHER|حفّار؛ نقّاش بالحامض
+ETHEREALITY|أثيرية؛ لطافة
+ETHERIC|أثيري
+ETHICALITY|أخلاقية
+ETHNICAL|عرقي؛ إثني
+ETHYLIC|إيثيلي
+EUCALYPTI|أشجار الكافور
+EUCLIDEAN|إقليدي
+EUCLIDIAN|إقليدي
+EUPHORICALLY|بنشوة
+EURASIAN|أوراسي
+EURHYTHMICS|إيقاع حركي؛ رياضة إيقاعية
+EURYTHMICS|إيقاع حركي؛ رياضة إيقاعية
+EVADABLE|يمكن تفاديه
+EVADER|مُراوِغ؛ مُتهرِّب
+EVADERS|مُراوِغون؛ مُتهرِّبون
+EVADIBLE|يمكن تفاديه
+EVANGELISTICALLY|بنزعة تبشيرية
+EVAPORATIVITY|قابلية التبخّر
+EVERMORE|للأبد؛ دائمًا
+EVERYPLACE|في كل مكان
+EVOCABLE|يمكن استحضاره
+EVOLUTIONAL|تطوّري
+EVOLVABLE|قابل للتطور
+EVOLVEMENT|تطوّر
+EXACTABLE|يمكن استيفاؤه
+EXACTOR|مُحصِّل؛ مُبتزّ
+EXACTORS|مُحصِّلون؛ مُبتزّون
+EXAGGERATIVE|مُبالِغ
+EXALTER|مُمجِّد؛ مُعلٍ
+EXAMINABLE|قابل للفحص
+EXAMINATIONAL|امتحاني
+EXASPERATER|مُستفِزّ؛ مُغيظ
+EXASPERATERS|مُستفِزّون
+EXCEPTIONABILITY|قابلية الاعتراض
+EXCISEMAN|جابي الضرائب
+EXCISEMEN|جباة الضرائب
+EXCLAIMER|مُتعجِّب؛ صائح
+EXCLAIMERS|مُتعجِّبون؛ صائحون
+EXCLUDABILITY|قابلية الاستبعاد
+EXCLUDER|مُستبعِد
+EXCLUDERS|مُستبعِدون
+EXCLUDIBLE|قابل للاستبعاد
+EXCOMMUNICATIVE|حرماني؛ مُوقِع الحرمان الكنسي
+EXCREMENTITIOUS|برازي؛ إخراجي
+EXCULPABLE|يمكن تبرئته
+EXCUSER|مُعتذِر؛ مُسامِح
+EXCUSERS|مُعتذِرون؛ مُسامِحون
+EXECRATIVE|لعني؛ شتّام
+EXECUTANT|مُنفِّذ؛ عازف
+EXECUTER|مُنفِّذ
+EXECUTERS|مُنفِّذون
+EXECUTORSHIP|منصب منفِّذ الوصية
+EXEMPLARINESS|مثالية؛ كونه قدوة
+EXEMPTIBLE|يمكن إعفاؤه
+EXERCISABLE|قابل للممارسة
+EXHAUSTER|مُنهِك؛ مُفرِغ
+EXHAUSTERS|مُنهِكون؛ مُفرِغون
+EXHAUSTIBILITY|قابلية النفاد
+EXHAUSTIVITY|شمولية؛ استقصاء
+EXHIBITER|عارض
+EXHIBITERS|عارضون
+EXHIBITIONER|طالب منحة
+EXHIBITIONISTIC|استعراضي
+EXHILARATIVE|منعش؛ مُبهِج
+EXHILARATOR|مُبهِج
+EXHILARATORS|مُبهِجون
+EXHORTER|واعظ؛ مُحرِّض
+EXHUMER|ناشر القبور
+EXHUMERS|ناشرو القبور
+EXIGENCE|ضرورة؛ مطلب ملحّ
+EXILIAN|متعلق بالمنفى
+EXILIC|متعلق بالمنفى
+EXORCISER|طارد الأرواح
+EXORCISERS|طاردو الأرواح
+EXORCIZE|يطرد الأرواح الشريرة
+EXPANSIVITY|توسُّعية؛ قابلية التمدّد
+EXPECTABLY|بشكل متوقَّع
+EXPECTANCE|ترقّب؛ توقّع
+EXPEDITOR|مُسرِّع الإجراءات
+EXPELLABLE|يمكن طرده
+EXPELLER|طارد؛ مُخرِج
+EXPIATOR|مُكفِّر
+EXPIATORS|مُكفِّرون
+EXPIRIES|انتهاءات؛ ختامات
+EXPIRY|انتهاء الصلاحية
+EXPLICABLY|بشكل قابل للتفسير
+EXPLODER|مُفجِّر
+EXPLODERS|مُفجِّرون
+EXPO|معرض
+EXPOSER|كاشف؛ فاضح
+EXPOSITIVE|تفسيري
+EXPOSTULATIVE|احتجاجي؛ عاتب
+EXPOSTULATOR|مُحتجّ؛ مُناصِح
+EXPOSTULATORY|احتجاجي؛ عتابي
+EXPOUNDER|شارح؛ مفسِّر
+EXPRESSER|مُعبِّر
+EXPULSIVE|طاردي؛ مُقصٍ
+EXPUNGER|ماحٍ؛ شاطب
+EXPURGATORIAL|تنقيحي؛ تطهيري
+EXPURGATORY|تنقيحي؛ تطهيري
+EXTEMPORARILY|ارتجالًا
+EXTEMPORARY|ارتجالي
+EXTENSIONAL|امتدادي
+EXTENUATIVE|تخفيفي
+EXTENUATOR|مُخفِّف
+EXTENUATORY|تخفيفي
+EXTERMINATIVE|إبادي
+EXTERMINATORY|إبادي
+EXTERRITORIAL|خارج الحدود الإقليمية
+EXTINGUISHMENT|إطفاء؛ إخماد
+EXTOLL|يمدح؛ يُثني
+EXTOLLER|مادح؛ مُثنٍ
+EXTOLLERS|مادحون؛ مُثنون
+EXTOLLS|يمدح؛ يُثني
+EXTOLMENT|مدح؛ إطراء
+EXTORTER|مُبتزّ
+EXTORTERS|مُبتزّون
+EXTORTIONARY|ابتزازي
+EXTORTIONATELY|بابتزاز؛ بإفراط
+EXTORTIONER|مُبتزّ
+EXTORTIVE|ابتزازي
+EXTRACTIBLE|قابل للاستخراج
+EXTRAJUDICIAL|خارج القضاء؛ غير قضائي
+EXTRAMURAL|خارج الأسوار؛ خارج الجامعة
+EXTRAVERSION|انبساطية
+EXTRAVERT|شخص منبسط
+EXTRINSICALLY|بشكل خارجي
+EXTROVERSIVE|انبساطي
+EXTROVERSIVELY|بشكل انبساطي
+EXULTANCE|ابتهاج؛ جذل
+EXULTANCY|ابتهاج؛ جذل
+EXULTINGLY|بابتهاج
+EYESHOT|مدى البصر
+EYRIE|عشّ النسر
+EYRIES|أعشاش النسور
+EYRY|عشّ النسر
+FABIAN|فابياني؛ متأنٍّ
+FABIANISM|الفابيانية
+FABLER|مؤلِّف حكايات
+FACELIFTING|شدّ الوجه؛ تجميل
+FACER|لكمة مفاجئة؛ مواجِه
+FACERS|مواجِهون؛ صدمات
+FACIA|لوحة؛ واجهة؛ لافتة
+FACTIONAL|حزبي؛ طائفي
+FACTIONALLY|بشكل حزبي
+FACTUALISM|نزعة واقعية
+FADDISM|هوَس بالموضات
+FADDIST|مولَع بالموضة
+FADDISTS|مولَعون بالموضة
+FADELESS|لا يذبل؛ دائم
+FAECES|براز؛ فضلات
+FAERIE|جنّية؛ عالم الجنّ
+FAERIES|جنّيات
+FAERY|جنّية؛ خيالي
+FAHRENHEIT|فهرنهايت
+FAIN|راغب؛ بسرور
+FAINTHEART|جبان
+FAINTHEARTED|جبان؛ خوّاف
+FAIRISH|معقول؛ مقبول
+FAIRMINDED|منصف؛ عادل
+FAIRYTALE|حكاية خرافية
+FALSIE|حشوة صدر صناعية
+FALSIES|حشوات صدر صناعية
+FALTERER|مُتردِّد؛ مُتعثِّر
+FALTERINGLY|بتردّد؛ بتعثّر
+FAMILIARIZER|مُعرِّف؛ مُؤلِّف
+FAMISH|يجوع؛ يُجيع
+FAMISHES|يجوع؛ يُجيع
+FAMISHMENT|مجاعة؛ جوع شديد

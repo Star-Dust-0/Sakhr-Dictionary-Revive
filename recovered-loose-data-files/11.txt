@@ -1,0 +1,399 @@
+MENISCOID|هلالي الشكل
+MENISCOIDAL|هلالي الشكل
+MENSTRUOUS|حيضي
+MENSURABILITY|قابلية القياس
+MENSURABLE|قابل للقياس
+MENSURABLENESS|قابلية القياس
+MENSURATION|قياس؛ علم القياس
+MENSURATIVE|قياسي
+MERCENARINESS|ارتزاق؛ نفعية
+MERCHANDIZE|يتاجر؛ بضائع
+MERCHANTABLE|قابل للتسويق
+MERCHANTMAN|سفينة تجارية
+MERCHANTMEN|سفن تجارية
+MERGENCE|اندماج؛ انصهار
+MERIDIONAL|جنوبي؛ نصف نهاري
+MERRINESS|مرح؛ بهجة
+MESDEMOISELLE|آنسات
+MESHY|شبكي
+MESMERIC|منوِّم مغناطيسيًا؛ ساحر
+MESMERICALLY|بتنويم مغناطيسي؛ بسحر
+MESONIC|ميزوني
+MESSIAS|المسيح؛ المخلّص
+MESSMATE|رفيق مائدة
+MESSRS|السادة
+METALLICALLY|معدنيًا
+METALLIFEROUS|حاوٍ للمعادن
+METEORICALLY|بسرعة الشهب
+METEORITICAL|نيزكي
+METEOROLOGIC|جوّي؛ أرصادي
+METHODIC|منهجي
+METHODISM|المنهجية؛ المذهب الميثودي
+METHODIST|ميثودي
+METHODISTIC|ميثودي
+METHODISTS|ميثوديون
+METHODIZATION|منهجة
+METHODIZER|مُنظِّم؛ مُنهِج
+METHODOLOGIST|خبير مناهج
+METHS|كحول ميثيلي
+METHYLAL|ميثيلال
+METHYLATE|يُمثيل؛ كحول ميثيلي
+METHYLATED|مُمثيَل
+METHYLIC|ميثيلي
+METICULOSITY|دقّة مفرطة
+METIER|مهنة؛ اختصاص
+METIERS|مهن؛ اختصاصات
+MGO|ميغا أوم؛ أكسيد المغنيسيوم
+MIAOU|مواء
+MIAOW|مواء
+MIASMATIC|وبائي؛ متعلق بالأبخرة الفاسدة
+MICACEOUS|ميكائي
+MICHAELMAS|عيد القديس ميخائيل
+MICKEY|ميكي؛ مزحة
+MICKLE|كثير؛ وافر
+MICRA|ميكرات
+MICROBIC|جرثومي
+MICROBICIDAL|مبيد للجراثيم
+MICROBICIDE|مبيد جراثيم
+MICRODOT|نقطة مجهرية
+MICRODOTS|نقاط مجهرية
+MICROSCOPICAL|مجهري
+MIDDEN|كومة نفايات
+MIDSHIPS|وسط السفينة
+MIGRAINOUS|صُداعي؛ متعلق بالشقيقة
+MIGRATIONAL|هجروي
+MIGRATOR|مهاجر؛ طائر مهاجر
+MIGRATORS|مهاجرون
+MIKADO|ميكادو؛ إمبراطور اليابان
+MIKADOS|أباطرة اليابان
+MIKRA|ميكرات
+MIKRON|ميكرون
+MIKRONS|ميكرونات
+MILAGE|مسافة بالأميال
+MILCH|حلوب
+MILCHIG|لبني
+MILDEWY|عفِن؛ مُصاب بالعفن
+MILITARISTICALLY|بنزعة عسكرية
+MILKER|حالب؛ آلة حلب
+MILKERS|حالبون؛ آلات حلب
+MILKFISH|سمك اللبن
+MILKFISHES|أسماك اللبن
+MILKINESS|لبنية
+MILKSOPPY|رخو؛ ضعيف
+MILLBOARD|كرتون مقوّى
+MILLEPEDE|ذات الألف رجل
+MILLERITE|ميليريت؛ معدن
+MILLIONAIRESS|مليونيرة
+MILLIONAIRESSES|مليونيرات
+MILLIONFOLD|مليون ضعف
+MILTER|ذكر السمك
+MIMER|مقلِّد؛ ممثل صامت
+MINAE|مينات؛ وحدات وزن قديمة
+MINAS|مينات؛ وحدات وزن
+MINATORIAL|تهديدي
+MINCER|مفرمة
+MINDER|حارس؛ مراقب
+MINELAYER|زارع ألغام
+MINERALIZER|مُمعدِن
+MINGIER|أكثر بخلًا
+MINGIEST|أشدّها بخلًا
+MINGLER|مُخالِط
+MINGY|بخيل؛ ضئيل
+MINICAR|سيارة صغيرة
+MINICARS|سيارات صغيرة
+MINIVER|فرو أبيض
+MINSTER|كاتدرائية؛ دير كبير
+MIRINESS|وحل؛ طينية
+MIRK|ظلام؛ عتمة
+MIRKIER|أكثر ظلمة
+MIRKIEST|أشدّها ظلمة
+MIRKILY|بظلمة
+MIRKINESS|ظلمة
+MIRKY|مظلم
+MISADVISE|ينصح خطأً
+MISADVISED|نصح خطأً
+MISADVISES|ينصح خطأً
+MISANTHROPICALLY|بنفور من البشر
+MISANTHROPIST|كاره للبشر
+MISBEHAVER|سيّئ السلوك
+MISBEHAVIOUR|سوء سلوك
+MISCODING|ترميز خاطئ
+MISCONCEIVER|مُسيء الفهم
+MISDATE|يؤرِّخ خطأً
+MISDEALER|موزِّع خطأً
+MISDEMEANOUR|جنحة؛ سلوك سيّئ
+MISDID|أساء الفعل
+MISDO|يسيء الفعل
+MISDOER|مرتكب الإساءة
+MISDOES|يسيء الفعل
+MISESTIMATE|تقدير خاطئ
+MISESTIMATED|قدّر خطأً
+MISESTIMATES|تقديرات خاطئة
+MISESTIMATION|سوء تقدير
+MISGAVE|أوجس خيفة
+MISGIVE|يُوجِس شكًّا
+MISGIVES|يوجس شكًّا
+MISGUIDANCE|سوء توجيه
+MISGUIDER|مُضلِّل
+MISINTERPRETER|مُسيء التفسير
+MISJUDGEMENT|حكم خاطئ
+MISLAYER|مُضيِّع الأشياء
+MISLIKE|يكره؛ لا يحب
+MISLIKED|كره
+MISLIKES|يكره
+MISREPRESENTER|مُحرِّف؛ مُشوِّه
+MISSHAPE|يشوِّه الشكل
+MISSHAPED|مُشوَّه الشكل
+MISSHAPER|مُشوِّه
+MISSHAPES|يشوِّه الشكل
+MISSILEMAN|مختص صواريخ
+MISSILEMEN|مختصو صواريخ
+MISSILRY|علم الصواريخ
+MISSIONER|مبشِّر
+MISSIS|سيدة؛ زوجة
+MISSORT|يفرز خطأً
+MISSORTING|فرز خاطئ
+MISSUS|سيدة؛ زوجة
+MISTAKER|مخطئ
+MISTIME|يُوقِّت خطأً
+MISTIMED|وُقِّت خطأً
+MISTIMES|يوقِّت خطأً
+MISTRANSLATION|ترجمة خاطئة
+MISUSAGE|سوء استعمال
+MISUSER|مُسيء الاستعمال
+MISUSERS|مُسيئو الاستعمال
+MISVENTURE|سوء حظ
+MITIGABLE|قابل للتخفيف
+MITIGATIVE|مُخفِّف
+MITIGATOR|مُخفِّف
+MITIGATORS|مُخفِّفون
+MITIGATORY|مُخفِّف
+MITRE|قلنسوة الأسقف؛ وصلة زاوية
+MLLE|آنسة
+MME|سيدة
+MMES|سيدات
+MNEMONICALLY|بوسائل مساعدة على الحفظ
+MODELER|مُنمذِج؛ نحّات
+MODELLER|مُنمذِج؛ نحّات
+MODIFICATOR|مُعدِّل
+MODULI|معاملات؛ مقاييس
+MODULUS|معامل؛ مقياس
+MOG|قطة
+MOGADISHO|مقديشو
+MOGGIES|قطط
+MOGGY|قطة
+MOGS|قطط
+MOHAMMEDANISM|الإسلام (تسمية قديمة)
+MOILER|كادح؛ عامل شاق
+MOIRE|نسيج مموَّج
+MOIRES|أقمشة مموَّجة
+MOKE|حمار
+MOLARITY|مولارية؛ تركيز مولي
+MOLLIFIER|مُهدِّئ
+MOLLYCODDLER|مُدلِّل
+MOLOCH|مولوخ؛ قوة مدمِّرة
+MOLTO|جدًا (موسيقى)
+MOMENTARINESS|لحظية؛ عابرية
+MONARCHAL|ملكي
+MONARCHALLY|ملكيًا
+MONARCHIAL|ملكي
+MONASTERIAL|ديري؛ رهباني
+MONASTICAL|رهباني
+MONDAYS|أيام الاثنين
+MONETIZATION|تحويل إلى نقد
+MONETIZE|يحوِّل إلى نقد
+MONETIZED|حوّل إلى نقد
+MONETIZES|يحوِّل إلى نقد
+MONEYER|ضارب العملة
+MONEYLESS|مفلس
+MONEYMARKET|سوق مالية
+MONEYMARKETS|أسواق مالية
+MONEYWORT|نبات النقود
+MONGOL|منغولي
+MONGOLIC|منغولي
+MONGOLS|منغوليون
+MONGRELISM|هجانة
+MONGRELIZATION|تهجين
+MONIED|غني؛ ثري
+MONKEYSHINE|مزحة؛ عبث
+MONKHOOD|رهبنة
+MONODIST|منشد مفرد
+MONODISTS|منشدون مفردون
+MONOLOG|مونولوج؛ حديث فردي
+MONOLOGS|مونولوجات
+MONOPOLISM|نزعة احتكارية
+MONOPOLISTICALLY|احتكاريًا
+MONOPOLIZER|مُحتكِر
+MONOTHEISTICALLY|بتوحيد
+MONOTONIC|رتيب؛ أحادي النغمة
+MONOTYPE|مونوتايب؛ آلة صف
+MONOTYPIC|أحادي النمط
+MONSOONAL|موسمي
+MOONBLIND|أعشى
+MOONEYE|سمك عين القمر
+MOONFISH|سمكة القمر
+MOONFISHES|أسماك القمر
+MOONFLOWER|زهرة القمر
+MOONLESS|بلا قمر
+MOONSEED|بذرة القمر (نبات)
+MOONSHOT|إطلاق مركبة إلى القمر
+MOONWARD|نحو القمر
+MOORHEN|دجاجة الماء
+MOORISH|مغربي؛ موري
+MOORLAND|أرض مستنقعية
+MOOSEBIRD|طائر الإلكة
+MOPER|مكتئب؛ كئيب
+MOPISH|كئيب؛ مغتمّ
+MOPISHLY|بكآبة
+MOPPER|ماسح
+MOQUETTE|نسيج مخملي للسجاد
+MORALISM|وعظية أخلاقية
+MORALISTICALLY|بنزعة أخلاقية
+MORELLO|كرز حامض
+MORELLOS|كرز حامض
+MORESQUE|زخرفة مغربية
+MORONICALLY|بغباء
+MORONISM|حماقة
+MORONITY|حماقة؛ بلاهة
+MORPHIA|مورفين
+MORSE|شيفرة مورس
+MORTGAGER|راهن
+MORTICED|مُنخَّر؛ مُعشَّق
+MOSAICISM|فسيفسائية
+MOSAICIST|صانع فسيفساء
+MOSELLE|نبيذ موزيل
+MOSLEM|مسلم
+MOSLEMS|مسلمون
+MOSSBUNKER|سمك المنهادن
+MOSSGROWN|مغطى بالطحلب
+MOSSLIKE|شبيه بالطحلب
+MOTHERHOUSE|دير رئيسي
+MOTIVITY|قدرة على الحركة
+MOTORIZATION|تحريك آلي؛ تزويد بمحركات
+MOTTLER|مُرقِّط
+MOUJIK|فلاح روسي
+MOULDED|مقولَب؛ مُشكَّل
+MOULDER|متحلِّل؛ مُقولِب
+MOULDIER|أكثر عفنًا
+MOULDIEST|أشدّها عفنًا
+MOULDING|قولبة؛ كورنيش
+MOULDS|قوالب؛ عفن
+MOULDY|عفِن
+MOULT|يَنسلِخ؛ يُبدِّل الريش
+MOUNTAINTOP|قمة جبل
+MOUNTAINY|جبلي
+MOUNTER|مُركِّب؛ مُثبِّت
+MOUSEY|فأري؛ خجول
+MOUSTACHES|شوارب
+MOUTHBREEDER|سمكة تحضن بيضها في فمها
+MOUTHINESS|فصاحة؛ ثرثرة
+MOVABILITY|قابلية الحركة
+MOVEABLE|قابل للنقل
+MOVIEDOM|عالم السينما
+MOVIEMAKER|صانع أفلام
+MOVIEMAKERS|صانعو أفلام
+MR|السيد
+MSES|سيدات
+MSS|مخطوطات
+MUCKAMUCK|طعام؛ شراب
+MUCKIER|أكثر وحلًا
+MUCKIEST|أشدّها وحلًا
+MUCKILY|بوحل؛ بقذارة
+MUCKLE|كثير؛ كبير
+MUCKY|موحل؛ قذر
+MUCOSE|مخاطي
+MUDDER|حصان يجري في الوحل
+MUDDLER|مُشوِّش؛ عابث
+MUGWUMP|مستقلّ سياسيًا
+MUGWUMPERY|استقلال سياسي
+MUHAMMADAN|محمدي
+MUHAMMADANISM|الإسلام (تسمية قديمة)
+MUHAMMED|محمد
+MUHAMMEDAN|محمدي
+MUHAMMEDANISM|الإسلام (تسمية قديمة)
+MULEY|بقرة بلا قرون
+MULLA|ملّا؛ رجل دين
+MULLAHISM|حكم الملالي
+MULTICELLULAR|متعدد الخلايا
+MULTICELLULARITY|تعدد الخلايا
+MULTICULTURAL|متعدد الثقافات
+MULTIDIRECTIONAL|متعدد الاتجاهات
+MULTIFID|متعدد الشقوق
+MULTIFLOROUS|متعدد الأزهار
+MULTIFOLD|متعدد الأضعاف
+MULTIFORMITY|تعدد الأشكال
+MULTINATIONALISM|تعدد الجنسيات
+MULTIPLICATE|متعدّد؛ مُضاعَف
+MULTIPLICATIVE|ضربي؛ مُضاعِف
+MULTIPLICATIVELY|بالضرب؛ بالمضاعفة
+MUMBLER|مُتمتِم
+MUNCHER|مُقضِم؛ ماضغ
+MUNIMENT|وثيقة؛ سند
+MUNIMENTS|وثائق؛ سندات
+MUNITION|ذخيرة؛ عتاد
+MUNITIONED|مُزوَّد بالذخيرة
+MURMURER|مُتمتِم؛ مُتذمِّر
+MURMURERS|مُتمتِمون؛ مُتذمِّرون
+MURMUROUS|مُتمتِم؛ هامس
+MURPHIES|بطاطس
+MURPHY|بطاطس
+MUSHROOMLIKE|فطري الشكل
+MUSKIE|سمك المسكي
+MUSKIES|أسماك المسكي
+MUSKINESS|رائحة المسك
+MUSKY|مسكي
+MUSLIMS|مسلمون
+MUSQUASH|فأر المسك؛ فرو الجرذ المسكي
+MUSSILY|بفوضى
+MUSSINESS|فوضى؛ تشويش
+MUSSY|فوضوي؛ مشوَّش
+MUTTONCHOPS|سوالف عريضة
+MUTTONHEAD|أحمق
+MUTTONHEADED|أحمق
+MUTUALISM|تبادلية؛ تكافل
+MUTUALIZATION|تبادلية
+MUZZIER|أكثر ضبابية
+MUZZIEST|أشدّها ضبابية
+MUZZINESS|ضبابية
+MUZZLER|مُكمِّم
+MUZZY|مشوَّش؛ ضبابي
+MYCOLOGIC|فطري؛ متعلق بعلم الفطريات
+MYSTIFIER|مُحيِّر؛ مُلغِز
+MYTHOLOGIC|أسطوري
+NABBER|مُلقي القبض
+NAGGINGLY|بتذمّر؛ بإلحاح
+NAIF|ساذج؛ بسيط
+NAILBRUSH|فرشاة أظافر
+NAILER|مُسمِّر
+NAINSOOK|نسيج قطني ناعم
+NAIVELY|بسذاجة
+NAIVENESS|سذاجة
+NAIVETE|سذاجة
+NAIVETES|سذاجات
+NAIVETIES|سذاجات
+NAIVETY|سذاجة
+NAMEABLE|يمكن تسميته
+NAMER|مُسمٍّ
+NAMERS|مُسمّون
+NANNIE|مربية؛ عنزة
+NAPHTHALINE|نفتالين
+NAPOLEONIC|نابليوني
+NARCISM|نرجسية
+NARRATER|راوٍ
+NARRATIONAL|سردي
+NARWAL|حوت النرهال
+NARWHALE|حوت النرهال
+NASCENCY|بدء؛ نشوء
+NATIONALIZER|مُؤمِّم
+NATIONALIZERS|مُؤمِّمون
+NATTER|يثرثر
+NATTERED|ثرثر
+NATTERS|يثرثر
+NATURISM|عري طبيعي؛ نزعة طبيعية
+NAUTCH|رقص هندي
+NAVVY|عامل حفر
+NAZIFIED|مُنقلَب إلى النازية
+NAZIFIES|ينقلب نازيًا
+NAZIFY|يحوِّل إلى النازية
+NAZIISM|النازية
+NDJAMENA|نجامينا

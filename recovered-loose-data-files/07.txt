@@ -1,0 +1,400 @@
+FANTAN|لعبة الفانتان الصينية
+FANTASTICALITY|غرابة؛ خيالية
+FANTASTICALNESS|غرابة؛ خيالية
+FARER|مسافر
+FARMHAND|عامل مزرعة
+FARRIERY|حدادة الخيل
+FARROW|خنزير صغير؛ ولادة الخنازير
+FARSIGHTED|بعيد النظر
+FARSIGHTEDLY|ببُعد نظر
+FASCES|حزمة القضبان (رمز السلطة)
+FASCIA|لوحة العدادات؛ لافتة؛ لفافة
+FASCIAE|لفافات
+FASHIONABILITY|رواج؛ كون الشيء على الموضة
+FASHIONER|مُصمِّم؛ مُشكِّل
+FATALISTICALLY|بقدرية
+FATHEAD|أحمق؛ غبي
+FATHEADED|أحمق؛ غبي
+FATHEADEDLY|بحماقة
+FATHEADEDNESS|حماقة؛ غباء
+FATHOMLESS|لا يُسبر غوره
+FATLESS|خالٍ من الدهن
+FATTENER|مُسمِّن
+FATTINESS|دسامة؛ سمنة
+FATTISH|سمين نوعًا ما
+FAVORINGLY|بتفضيل؛ بمحاباة
+FAVOUR|فضل؛ معروف؛ يُفضِّل
+FAVOURABLE|موات؛ مُلائم
+FAVOURABLY|بشكل موات
+FAVOURED|مفضَّل؛ مُفضَّل
+FAVOURER|مُحابٍ؛ مُناصِر
+FAVOURINGLY|بتفضيل
+FAVOURITES|مفضَّلون؛ مفضَّلات
+FAVOURS|يفضّل؛ فضائل
+FEARER|خائف؛ هيّاب
+FEASTER|مُشارك في الوليمة
+FEATHERINESS|ريشية؛ خفة
+FEATHERLESS|بلا ريش
+FEBRUARIES|شهور فبراير
+FEBRUARYS|شهور فبراير
+FEDERATIVE|اتحادي؛ فيدرالي
+FELINITY|قطّية؛ صفة السنّور
+FELLABLE|يمكن قطعه
+FELLAH|فلّاح
+FELLAHEEN|فلّاحون
+FELLAHIN|فلّاحون
+FELLAHS|فلّاحون
+FELSPAR|فلسبار؛ معدن
+FEMINITY|أنوثة
+FERMENTABILITY|قابلية التخمّر
+FERMENTABLE|قابل للتخمّر
+FERMENTATIVE|تخميري
+FERMENTER|مُخمِّر
+FERRETER|صيّاد بالقاقوم؛ مُنقِّب
+FERROCONCRETE|خرسانة مسلحة
+FERTILIZABLE|قابل للتخصيب
+FERVOUR|حرارة؛ حماسة
+FESTOONERY|تزيين بالأكاليل
+FETCHER|جالب
+FETICH|وثن؛ تميمة
+FEUDALIST|إقطاعي
+FEUDALISTS|إقطاعيون
+FEUDALITIES|أنظمة إقطاعية
+FEUDALITY|إقطاعية
+FEVEROUS|محموم
+FIANCE|خطيب
+FIANCEE|خطيبة
+FIANCEES|خطيبات
+FIANCES|خطّاب
+FIBREBOARD|لوح ألياف
+FIBREGLASS|ألياف زجاجية
+FIBRES|ألياف
+FICTIONIST|كاتب روايات
+FICTIONISTS|كتّاب روايات
+FIE|تبًّا! عيب!
+FIELDSMAN|لاعب ميدان (كريكيت)
+FIELDSMEN|لاعبو ميدان
+FIGURATION|تشكيل؛ تمثيل بالأشكال
+FIGURATIONS|تشكيلات؛ تمثيلات
+FILAMENTARY|خيطي
+FILAMENTOUS|خيطي
+FILATURE|غزل الحرير؛ معمل غزل
+FILCHER|سارق صغير
+FILIBUSTERER|مُعطِّل بالمماطلة
+FILTERER|مُرشِّح
+FILTERTIPPED|ذو فلتر
+FINALIZATION|إنهاء؛ وضع اللمسات الأخيرة
+FINDABLE|يمكن العثور عليه
+FINEABLE|يستحق الغرامة
+FINGERER|لامس؛ مُتحسِّس
+FINIS|النهاية
+FINITUDE|تناهٍ؛ حدّية
+FINNIC|فنلندي
+FINNS|فنلنديون
+FIORD|مضيق بحري
+FIREBIRD|طائر ناري؛ عصفور ناري
+FIREBIRDS|طيور نارية
+FIRER|مُطلِق النار؛ مُوقِد
+FIRESTONE|حجر ناري؛ صوّان
+FIRSTLING|بكر؛ باكورة
+FISHBONE|شوكة سمكة
+FISHCAKE|كرات سمك
+FISHPASTE|معجون سمك
+FISHPLATE|صفيحة وصل السكة
+FISSILITY|قابلية الانشطار
+FISSIONABILITY|قابلية الانشطار
+FISSIPAROUS|متكاثر بالانشطار
+FISSIPAROUSLY|بالتكاثر الانشطاري
+FISTULOUS|ناسوري
+FITMENT|تجهيز؛ قطعة أثاث
+FITMENTS|تجهيزات
+FIVEPENCE|خمسة بنسات
+FIVEPENNY|بقيمة خمسة بنسات
+FIVER|ورقة بخمسة جنيهات
+FIZZIER|أكثر فوّارًا
+FIZZIEST|أشدّها فوّارًا
+FLAGGER|مُلوِّح بالعلم
+FLAGRANCE|فضيحة؛ سوء بيّن
+FLAGSTAFF|سارية العلم
+FLAGSTAFFS|سواري الأعلام
+FLAKER|مُقشِّر
+FLAMBEAU|مشعل
+FLAMBEAUS|مشاعل
+FLAMBEAUX|مشاعل
+FLAMBOYANCY|مبالغة في الزخرفة؛ تبهرج
+FLAMER|مُلتهِب؛ مشعل
+FLASHPOINT|نقطة الوميض؛ نقطة اشتعال
+FLATFOOTEDLY|بخفّ مسطّح؛ بصراحة
+FLATFOOTEDNESS|تسطّح القدم؛ فجاجة
+FLATLET|شقة صغيرة
+FLATTENER|مُسطِّح
+FLAUNTER|مُتباهٍ
+FLAVORER|مُنكِّه
+FLAVOROUS|لذيذ الطعم
+FLAVORSOME|لذيذ الطعم
+FLAVOUR|نكهة
+FLAVOURED|منكَّه
+FLAVOURER|مُنكِّه
+FLAVOURING|تنكيه؛ نكهة
+FLAVOURLESS|بلا نكهة
+FLAVOUROUS|لذيذ الطعم
+FLAVOURS|نكهات
+FLAVOURSOME|لذيذ الطعم
+FLAXY|كتاني؛ كالكتان
+FLAYER|سالخ؛ مُجرِّد الجلد
+FLEABITE|لدغة برغوث
+FLEAPIT|دار سينما رديئة
+FLEDGELING|فرخ؛ مبتدئ
+FLEER|يسخر؛ سخرية
+FLESHINESS|سِمَن؛ لحمية
+FLESHINGS|سراويل لحمية
+FLESHPOTS|مباهج الجسد؛ بيوت اللهو
+FLEXILE|مرن؛ قابل للثني
+FLINCHER|جافل؛ متراجع
+FLINTSTONE|حجر الصوّان
+FLITTER|يرفرف؛ يتنقّل
+FLOATABLE|قابل للطفو
+FLOATATION|طفو؛ تعويم
+FLOGGER|جالد؛ مُعذِّب
+FLOORER|مُضرِّب أرضًا؛ سؤال محيِّر
+FLOOZIE|امرأة سهلة
+FLOPPER|فاشل؛ مُنهار
+FLORICULTURAL|متعلق بزراعة الأزهار
+FLORIDITY|زخرفة؛ تبهرج
+FLORISTIC|زهري؛ نباتي
+FLOURISHER|مُزدهِر؛ مُلوِّح
+FLOUTER|مستخفّ؛ مُستهزئ
+FLOWERBED|حوض أزهار
+FLOWERER|مُزهِر
+FLOWERLESS|بلا أزهار
+FLUKEY|محظوظ؛ عرضي
+FLUNKEY|خادم؛ متملّق
+FLUNKEYS|خدم؛ متملّقون
+FLUORIDIZATION|فلورة؛ إضافة الفلورايد
+FLUTER|عازف الناي
+FLUTERS|عازفو الناي
+FLUTTERER|مُرفرِف
+FLYOVER|جسر علوي؛ تحليق
+FLYPAST|استعراض جوّي
+FLYPOST|يلصق إعلانات بشكل غير قانوني
+FLYPOSTED|لصق إعلانات بشكل غير قانوني
+FLYPOSTER|مُلصِق إعلانات غير قانوني
+FLYPOSTS|يلصق إعلانات بشكل غير قانوني
+FOETAL|جنيني
+FOETID|نتن؛ كريه الرائحة
+FOETUS|جنين
+FOGBOUND|محاصر بالضباب
+FOGEY|محافظ عتيق
+FOGEYS|محافظون عتقاء
+FONDLER|مُداعِب؛ مُلاطِف
+FOODLESS|بلا طعام
+FOOTBOARD|لوح قدم؛ عتبة
+FOOTBOARDS|ألواح قدم؛ عتبات
+FOOTFAULT|خطأ في القدم (تنس)
+FOOTLE|يعبث؛ يتفوّه بالهراء
+FOOTLED|عبث؛ هذى
+FOOTLER|عابث؛ هذّاء
+FOOTLES|يعبث؛ يهذي
+FOOTMARK|أثر قدم
+FOOTMARKS|آثار أقدام
+FOOTRACE|سباق جري
+FOOTRACES|سباقات جري
+FOOTRACING|سباق جري
+FOOTSURE|ثابت القدم
+FORBEARER|صابر؛ متسامح
+FORBIDDANCE|منع؛ حظر
+FORCEABLE|يمكن إكراهه
+FORCER|مُكرِه؛ دافع
+FORDABLE|يمكن عبوره مشيًا
+FOREGATHER|يجتمع؛ يلتقي
+FOREGATHERED|اجتمع؛ التقى
+FOREGATHERS|يجتمع؛ يلتقي
+FOREGOER|سابق؛ سلف
+FORELAND|رأس؛ لسان أرضي
+FORENSICALLY|من الناحية الجنائية
+FORESEER|متنبّئ؛ مُستشرِف
+FORESTALLER|مُستبِق؛ مُحتكِر مسبقًا
+FORESTATION|تشجير
+FORESWEAR|ينكر بالقَسَم؛ يتخلّى
+FORESWEARS|ينكر بالقَسَم؛ يتخلّى
+FORESWORE|أنكر بالقسم؛ تخلّى
+FORETELLER|متنبّئ؛ عرّاف
+FORETOP|ناصية؛ خصلة أمامية
+FOREWOMAN|رئيسة عاملات؛ مشرفة
+FOREWOMEN|رئيسات عاملات؛ مشرفات
+FORFEITER|مُصادَر منه؛ خاسر
+FORGEABILITY|قابلية التزوير؛ قابلية الطرق
+FORGEABLE|قابل للتزوير؛ قابل للطرق
+FORGIVERS|غافرون؛ صافحون
+FORMABLE|قابل للتشكيل
+FORMALIN|فورمالين؛ مادة حافظة
+FORMALIZATION|إضفاء الصفة الرسمية
+FORMATIONAL|تكويني
+FORMICA|فورمايكا؛ مادة بلاستيكية
+FORSOOTH|حقًّا؛ في الحقيقة
+FORTIFIABLE|يمكن تحصينه
+FORTITUDINOUS|شجاع؛ صامد
+FORTUNETELLING|قراءة الطالع
+FOSS|خندق؛ خَندق
+FOUNDRESS|مؤسِّسة
+FOURPENCE|أربعة بنسات
+FOURPENNY|بقيمة أربعة بنسات
+FOURSQUARE|مربّع؛ ثابت
+FOXHUNT|صيد الثعالب
+FOXTROT|رقصة الفوكستروت
+FRAGMENTAL|مُجزَّأ؛ شظوي
+FRANCISCAN|فرنسيسكاني
+FRANCISCANS|فرنسيسكان
+FRANCOPHONE|ناطق بالفرنسية
+FRANKFORT|فرانكفورت
+FRANKFORTER|نقانق فرانكفورت
+FRANKLIN|مالك حرّ (قديمًا)
+FRATERNIZER|مُصادِق؛ مُتآخٍ
+FRAU|سيدة (ألمانية)
+FRAUEN|سيدات (ألمانية)
+FRAULEIN|آنسة (ألمانية)
+FRECKLY|منمَّش
+FREEWHEEL|عجلة حرّة
+FREEWHEELED|انطلق بعجلة حرّة
+FREIGHTLINER|قطار شحن
+FRENCHMEN|فرنسيون
+FRENCHWOMEN|فرنسيات
+FRENETICAL|مسعور؛ محموم
+FREQUENTATIVE|تكراري
+FREQUENTATIVES|أفعال تكرارية
+FRESCOER|رسّام جداريات
+FRESHENER|مُنعِش؛ معطّر
+FRETSAW|منشار حفر
+FRIARY|دير الرهبان
+FRIDAYS|أيام الجمعة
+FRIDGE|ثلاجة
+FRIER|مُقلٍّ؛ قلّاية
+FRIGHTENER|مُخيف؛ مُرهِب
+FRINGY|مهدّب
+FRISKER|مُفتِّش؛ مرِح
+FRISSON|رعشة؛ قشعريرة
+FRISSONS|رعشات؛ قشعريرات
+FRIVOL|يتسلّى؛ يعبث
+FRIVOLED|تسلّى؛ عبث
+FRIVOLER|عابث؛ مُتسلٍّ
+FRIVOLLED|تسلّى؛ عبث
+FRIVOLS|يتسلّى؛ يعبث
+FRIZZER|مُجعِّد الشعر
+FRIZZINESS|تجعّد الشعر
+FRIZZLIER|أكثر تجعدًا
+FRIZZLIEST|أشدّها تجعدًا
+FRO|للخلف؛ ذهابًا وإيابًا
+FROTHINESS|رغوية؛ سطحية
+FROWARD|عنيد؛ شرس
+FROWARDLY|بعناد
+FROWARDNESS|عناد
+FROWNER|عابس
+FROWSIER|أكثر قذارة
+FROWSIEST|أشدّها قذارة
+FROWSTIER|أكثر اختناقًا
+FROWSTIEST|أشدّها اختناقًا
+FROWSTY|خانق؛ ذو هواء فاسد
+FROWSY|شعِث؛ قذر
+FRUCTIFICATION|إثمار
+FRUITAGE|ثمر؛ محصول
+FRUITERER|بائع فاكهة
+FRUSTRATER|مُحبِط
+FUELER|مُزوِّد بالوقود
+FUG|جوّ خانق؛ هواء فاسد
+FUGGY|خانق؛ رديء التهوية
+FUGUIST|مؤلِّف الفوغ الموسيقي
+FULFIL|يفي؛ يُنجِز
+FULFILLER|مُنجِز؛ مُحقِّق
+FULFILMENT|إنجاز؛ تحقيق
+FULFILS|يفي؛ يُنجِز
+FULLBLOWN|مكتمل؛ مُتفتِّح
+FULMAR|طائر النوء
+FULMINANT|مُدوٍّ؛ مُتفجِّر
+FULMINATORY|ثائر؛ مُدوٍّ
+FULNESS|امتلاء؛ اكتمال
+FUNCTIONLESS|بلا وظيفة
+FUNDAMENTALISTIC|أصولي
+FUNFAIR|مدينة ملاهٍ
+FUNGICIDAL|مبيد للفطريات
+FUNGOID|فطري
+FURBISHER|صاقل؛ مُجدِّد
+FURNISHER|مُؤثِّث؛ مُجهِّز
+FURORE|ضجّة؛ هياج عام
+FURRIERIES|محال الفرو
+FURRIERY|تجارة الفرو
+FURTHERER|مُعزِّز؛ مُساعِد
+FUSIBILITY|قابلية الانصهار
+FUSIL|بندقية قديمة
+FUSILE|منصهر
+FUSSER|مُتذمِّر؛ مُدقِّق
+FUSSPOT|مُدقِّق مفرِط
+FUSTINESS|عفونة؛ رائحة عطنة
+FUTURELESS|بلا مستقبل
+FUZE|فتيل؛ صاعق
+FUZED|زُوِّد بفتيل
+FUZES|فتائل؛ صواعق
+GABBLER|ثرثار
+GABERDINE|قماش الجبردين
+GADDER|جوّال؛ كثير التجوال
+GAEL|غيلي؛ اسكتلندي قديم
+GAELIC|غيلي
+GAELS|غيليون
+GAFFER|رئيس عمال؛ مُسنّ
+GAFFERS|رؤساء عمال
+GAGER|رهين؛ مُقدِّر
+GAGERS|رهائن؛ مقدِّرون
+GAGGER|مُكمِّم؛ كاتم
+GAGGERS|مُكمِّمون
+GAININGS|مكاسب؛ أرباح
+GAINLESS|بلا ربح
+GAINSAYER|مُناقِض؛ مُنكِر
+GAINSAYERS|مُناقِضون؛ مُنكِرون
+GALAVANT|يتجوّل للمتعة
+GALLIC|غالي؛ فرنسي
+GALLICISM|تعبير فرنسي
+GALLOPER|عادٍ؛ مُهروِل
+GALUMPH|يتبختر بثقل
+GAMBOGE|صمغ أصفر؛ غامبوج
+GAMMONER|مُخادِع؛ هازل
+GANGER|رئيس عمال
+GAOL|سجن
+GAOLER|سجّان
+GAOLS|سجون
+GAPER|مُحدِّق مشدوه
+GARBLER|مُحرِّف؛ مُشوِّه
+GARBLERS|مُحرِّفون؛ مُشوِّهون
+GAROTTED|خنق بحبل
+GAROTTES|يخنق بحبل
+GARROTER|خانق بحبل
+GARROTS|يخنق بحبل
+GARROTTED|خنق بحبل
+GARROTTES|يخنق بحبل
+GASBAG|ثرثار
+GASBAGS|ثرثارون
+GASHOLDERS|خزّانات الغاز
+GASIFICATION|تغويز
+GASIFIED|مُغوَّز
+GASIFIES|يُغوِّز
+GASIFY|يُغوِّز؛ يحوّل إلى غاز
+GASOLENE|بنزين
+GASOMETER|مقياس الغاز؛ خزّان غاز
+GASPER|لاهث؛ سيجارة رخيصة
+GASSINESS|غازية؛ ثرثرة
+GATECRASH|يتطفّل على حفلة
+GAUGEABLE|يمكن قياسه
+GAUGER|مقيِّس؛ مُعايِر
+GAUZINESS|شفافية؛ رقّة
+GAWKINESS|خرق؛ فجاجة
+GAWP|يحدّق بذهول
+GAYETY|مرح؛ بهجة
+GELATINE|جيلاتين
+GELIGNITE|جيلغنيت؛ متفجّر
+GEN|معلومات
+GENDARMERY|الدرك؛ قوات الدرك
+GENERALISSIMO|القائد العام
+GENERALISSIMOS|القادة العامّون
+GENETICAL|جيني؛ وراثي
+GENOCIDAL|إبادي؛ متعلق بالإبادة الجماعية
+GENOCIDALLY|بإبادة جماعية
+GEOLOGER|عالم جيولوجيا
+GEOLOGERS|علماء جيولوجيا

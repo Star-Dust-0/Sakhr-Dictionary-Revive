@@ -1,0 +1,107 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+    paths: ['src/**', 'installer/**', '.github/workflows/build.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-2022
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Publish (WinUI 3, win-x64, framework-dependent)
+        shell: bash
+        run: |
+          if ! dotnet publish src/FluentSakhrDictionary/FluentSakhrDictionary.csproj -c Release -r win-x64 -p:Platform=x64 --self-contained false \
+            -p:DebugType=none -p:PublishReadyToRun=true -o publish; then
+            echo "=== XamlCompiler output.json ==="
+            cat src/FluentSakhrDictionary/obj/x64/Release/net8.0-windows10.0.19041.0/win-x64/output.json 2>/dev/null || echo "no output.json"
+            echo "=== direct XamlCompiler run ==="
+            XC="$USERPROFILE/.nuget/packages/microsoft.windowsappsdk/1.6.250108002/tools/net472/XamlCompiler.exe"
+            ls -la "$XC" || echo "XamlCompiler.exe missing"
+            IN=$(pwd)/src/FluentSakhrDictionary/obj/x64/Release/net8.0-windows10.0.19041.0/win-x64/input.json
+            OUT=$(pwd)/src/FluentSakhrDictionary/obj/x64/Release/net8.0-windows10.0.19041.0/win-x64/output.json
+            "$XC" "$IN" "$OUT"; echo "direct exit=$?"
+            cat "$OUT" 2>/dev/null || echo "still no output.json"
+            exit 1
+          fi
+
+      - name: Verify output structure
+        shell: pwsh
+        run: |
+          Get-ChildItem publish | Select-Object Name, Length | Format-Table -AutoSize | Out-String -Width 200
+          $need = @('FluentSakhrDictionary.exe','FluentSakhrDictionary.dll','FluentSakhrDictionary.runtimeconfig.json','app.ico','Microsoft.WinUI.dll','data/dictionary.jsonl')
+          $missing = $need | Where-Object { -not (Test-Path (Join-Path publish $_)) }
+          if ($missing) { Write-Error "Missing: $missing"; exit 1 }
+          if (-not (Get-ChildItem publish -Filter *.pri)) { Write-Error "No .pri resource file"; exit 1 }
+          Write-Host "Structure OK"
+
+      - name: Smoke test (install Windows App Runtime, launch for 10s)
+        shell: pwsh
+        run: |
+          Invoke-WebRequest https://aka.ms/windowsappsdk/1.6/latest/windowsappruntimeinstall-x64.exe -OutFile wari.exe
+          Start-Process .\wari.exe -ArgumentList '--quiet' -Wait
+          $p = Start-Process publish\FluentSakhrDictionary.exe -PassThru
+          Start-Sleep -Seconds 10
+          if ($p.HasExited) { Write-Error "App exited early with code $($p.ExitCode)"; if (Test-Path "$env:APPDATA\FluentSakhrDictionary\crash.log") { Get-Content "$env:APPDATA\FluentSakhrDictionary\crash.log" }; exit 1 }
+          Write-Host "App still running after 10s"
+          Stop-Process -Id $p.Id -Force
+
+      - name: Capture RTL suggestion regression (production caption mirroring)
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force "$env:APPDATA\SakhrDictionaryRevive" | Out-Null
+          foreach ($lang in @('ar', 'en')) {
+            @{Language=$lang; UseWiktionary=$false; Theme='Dark'} | ConvertTo-Json | Set-Content "$env:APPDATA\SakhrDictionaryRevive\settings.json"
+            foreach ($word in @('aba', 'قط')) {
+              $suffix = if ($word -eq 'aba') { 'aba' } else { 'arabic' }
+              $file = "app-suggestions-$lang-$suffix.png"
+              $p = Start-Process publish\SakhrDictionaryRevive.exe -ArgumentList '--screenshot',"$PWD\$file",'--shot-word',$word -PassThru
+              if (-not $p.WaitForExit(120000)) { Stop-Process -Id $p.Id -Force; throw "Capture hung: $file" }
+              if ($p.ExitCode -ne 0 -or -not (Test-Path $file)) { throw "Capture failed: $file" }
+            }
+          }
+          Remove-Item "$env:APPDATA\SakhrDictionaryRevive\settings.json" -Force
+
+      - name: Capture app screenshot (CAT lookup, light + dark)
+        shell: pwsh
+        run: |
+          $p = Start-Process publish\FluentSakhrDictionary.exe -ArgumentList '--screenshot',"$PWD\app-light.png",'--shot-word','CAT' -PassThru -Wait
+          if (-not (Test-Path app-light.png)) { if (Test-Path "$env:APPDATA\FluentSakhrDictionary\crash.log") { Get-Content "$env:APPDATA\FluentSakhrDictionary\crash.log" }; Write-Error "Light screenshot missing"; exit 1 }
+          $p = Start-Process publish\FluentSakhrDictionary.exe -ArgumentList '--screenshot',"$PWD\app-dark.png",'--shot-word','CAT','--theme','Dark' -PassThru -Wait
+          if (-not (Test-Path app-dark.png)) { if (Test-Path "$env:APPDATA\FluentSakhrDictionary\crash.log") { Get-Content "$env:APPDATA\FluentSakhrDictionary\crash.log" }; Write-Error "Dark screenshot missing"; exit 1 }
+          Write-Host "Screenshots captured"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: build
+          path: |
+            publish
+            app-suggestions-*.png
+            app-light.png
+            app-dark.png
+
+      - name: Publish regression screenshots for review
+        shell: pwsh
+        run: |
+          $d = Join-Path $env:RUNNER_TEMP 'rtl-shots'
+          New-Item -ItemType Directory -Force -Path $d | Out-Null
+          Copy-Item app-suggestions-*.png $d
+          Push-Location $d
+          git init -q
+          git config user.name github-actions
+          git config user.email actions@github.com
+          git add .
+          git commit -qm "RTL regression screenshots"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git" HEAD:refs/heads/ci-shots
+          Pop-Location

@@ -1,0 +1,400 @@
+BOWERIES|مزارع؛ منازل ريفية
+BOWERY|مزرعة؛ بوري (حي في نيويورك)
+BOWLEG|ساق مقوّسة
+BOWLEGS|ساقان مقوّستان
+BOWMAN|رامٍ بالقوس
+BOWMEN|رماة بالقوس
+BOXFUL|ملء صندوق
+BOXINESS|صندوقية الشكل
+BOYCOTTER|مُقاطِع
+BRACTEAL|قِنَابي (نبات)
+BRADAWL|مخرز نجّار
+BRAHMA|براهما (إله هندوسي)
+BRAHMANIC|براهمي
+BRAHMANICAL|براهمي
+BRAHMANISM|البراهمية
+BRAHMAS|براهما؛ نوع دجاج
+BRAHMINIC|براهمي
+BRAHMINICAL|براهمي
+BRAHMINISM|البراهمية
+BRAIDER|ضفّار؛ جدّال
+BRAILLE|برايل؛ كتابة المكفوفين
+BRAININESS|ذكاء؛ فطنة
+BRAINSTORMER|مشارك في العصف الذهني
+BRAKEMAN|عامل فرامل
+BRAKEMEN|عمال فرامل
+BRANCHLESS|بلا أغصان
+BRANCHY|كثير الأغصان
+BRANDER|واسم؛ مُعلِّم
+BRANDISHER|مُلوِّح؛ مُشهِر
+BRASILIA|برازيليا
+BRASSARD|شارة الذراع
+BRASSERIE|مطعم بيرة؛ براسري
+BRASSIE|عصا غولف
+BRASSINESS|وقاحة؛ لون نحاسي
+BRAZENFACED|وقح؛ صفيق
+BRAZER|ملحِم بالنحاس
+BREADSTUFF|مادة غذائية من الحبوب
+BREADTHWAYS|عرضًا
+BREADTHWISE|عرضًا
+BREAKEVEN|نقطة التعادل
+BREAKFASTER|مُتناوِل الفطور
+BREASTFED|أُرضع من الثدي
+BREECHBLOCK|مغلاق مدفع
+BREVE|نوتة كاملة مضاعفة؛ علامة اختصار
+BREVETCY|رتبة فخرية
+BREWAGE|مشروب مخمَّر؛ تخمير
+BRIBABLE|قابل للرشوة
+BRICKKILN|فرن طوب
+BRIDECAKE|كعكة الزفاف
+BRIDLER|مُلجِم
+BRIEFLESS|بلا قضايا (محامٍ)
+BRIGANDAGE|قطع الطرق؛ لصوصية
+BRIGANDISM|قطع الطرق؛ لصوصية
+BRIGHTENER|مُنوِّر؛ مُحسِّن اللون
+BRIGHTENERS|مُنوِّرات؛ مُحسِّنات اللون
+BRILL|سمك البريل
+BRILLIANCY|لمعان؛ تألق
+BRILLIANTINE|بريانتين؛ دهن شعر
+BRILLS|أسماك البريل
+BRINDLED|مرقَّط؛ ذو بقع
+BRINER|مُملِّح؛ مُخلِّل
+BRINGDOWN|سقوط؛ هبوط
+BRINGER|جالب؛ مُحضِر
+BRININESS|ملوحة
+BRITICISM|تعبير بريطاني
+BRITISHER|بريطاني
+BRITISHERS|بريطانيون
+BRITISHISM|تعبير بريطاني
+BRITONS|بريطانيون
+BROADENER|مُوسِّع
+BROADWAY|شارع عريض؛ برودواي
+BROADWAYS|شوارع عريضة
+BROADWISE|عرضيًا؛ بعرض
+BROLLY|مظلة
+BROMINISM|تسمم بالبروم
+BROMISM|تسمم بالبروم
+BRONZY|برونزي؛ لون البرونز
+BROODINESS|ميل للحضانة؛ كآبة
+BROS|إخوة
+BROWBEATER|مُرهِب؛ مُخيف
+BRUSHER|مُنظِّف بالفرشاة
+BRUSK|فظّ؛ جافّ
+BRUSQUERIE|فظاظة؛ جفاء
+BRUTALIZATION|تحويل إلى وحشية
+BRUTIFY|يُوحِّش؛ يُبلِّد
+BUBBLER|مُنبِّع الماء؛ مُفوِّر
+BUCKER|حصان جامح؛ مُناطِح
+BUCKSHEE|مجاني؛ بالمجان
+BUCOLICALLY|بأسلوب ريفي؛ رعويًا
+BUDDER|مُبرعِم
+BUDDHISTIC|بوذي
+BUDDHISTS|بوذيون
+BUDGETER|مُعدّ الميزانية
+BUFFETER|ضارب؛ مُلطِم
+BUGGINESS|كثرة الحشرات
+BUHL|أثاث مطعَّم بالنحاس
+BULLDOGGER|مُصارِع ثيران
+BULLDOGGERS|مُصارِعو ثيران
+BUMBOAT|قارب تموين
+BUMBOATS|قوارب تموين
+BUNCHY|عنقودي؛ متجمّع
+BUNCOMBE|هراء؛ كلام فارغ
+BUNDLER|مُحزِّم
+BUNSEN|موقد بنزن
+BUOYANCE|طفو؛ قدرة على الطفو
+BURET|سحّاحة؛ أنبوب معايرة
+BURGLARIOUS|متعلق بالسطو
+BURIER|دافن
+BURKE|يُخمد؛ يكتم
+BURKED|أخمد؛ كتم
+BURKES|يخمد؛ يكتم
+BURLESQUER|مُحاكٍ ساخر
+BURNISHER|صاقل؛ مُلمِّع
+BURNOUS|برنس
+BURNOUSE|برنس
+BURNSIDES|سوالف طويلة
+BURROWER|حافر الجحور
+BURSARIES|منح دراسية؛ أمانات الخزانة
+BURSARY|منحة دراسية؛ أمانة الخزانة
+BURTHEN|حِمل؛ عبء
+BUSBY|قبعة الفرسان الفرائية
+BUSHELMAN|مُصلِح ملابس
+BUSHELMEN|مُصلحو ملابس
+BUSHMAN|رجل البوش؛ ساكن الأدغال
+BUSHMEN|سكان الأدغال
+BUSKER|مُغنٍّ في الشوارع
+BUTCH|ذكوري؛ مسترجلة
+BUTCHERER|جزّار؛ قاتل
+BUTTERFINGERED|يُسقِط الأشياء؛ أخرق
+BUTTONER|مُزرِّر
+BUTTONHOLER|مُمسِك بالأزرار؛ ثرثار مُملّ
+BUTTONY|ذو أزرار
+BUYABLE|قابل للشراء
+BYLAW|لائحة محلية؛ نظام داخلي
+BYPATH|طريق جانبي
+BYPLAY|حدث ثانوي؛ تمثيل جانبي
+CABER|جذع شجرة (للقذف)
+CABSTAND|موقف سيارات الأجرة
+CACHOU|حبة معطِّرة للفم
+CADDISH|وضيع؛ فظّ
+CADDISHLY|بوضاعة؛ بفظاظة
+CADDISHNESS|وضاعة؛ فظاظة
+CADDY|علبة شاي؛ حامل عصي غولف
+CADENCIES|إيقاعات؛ نغمات ختامية
+CADENCY|إيقاع؛ نغمة ختامية
+CADGER|متسوّل؛ شحّاذ
+CAESARIAN|قيصري
+CAESARISM|حكم استبدادي؛ قيصرية
+CAESARS|قياصرة
+CAFE|مقهى
+CAFES|مقاهٍ
+CAFF|مقهى شعبي
+CAFFEIN|كافيين
+CAGY|حذر؛ متكتّم
+CAJOLER|مُتملِّق؛ مُغرٍ بالكلام
+CALCINATION|تكليس؛ حرق إلى رماد
+CALCINATIONS|عمليات تكليس
+CALCINE|يُكلِّس؛ يُحرق
+CALCINED|مُكلَّس
+CALCINES|يُكلِّس؛ يُحرق
+CALCULABILITY|قابلية الحساب
+CALDRON|مرجل؛ قِدر كبير
+CALDRONS|مراجل؛ قدور كبيرة
+CALENDERED|مصقول؛ مكبوس (قماش)
+CALENDERER|مُصقِّل الأقمشة
+CALENDERS|مصقلات؛ تصقيل الأقمشة
+CALENDRIC|تقويمي
+CALENDRICAL|تقويمي
+CALIBRE|عيار؛ مقدرة
+CALIF|خليفة
+CALISTHENIC|رياضي؛ تمريني
+CALISTHENICAL|رياضي؛ تمريني
+CALK|يسدّ؛ يحشو الثغرات
+CALKED|سدّ؛ حشا الثغرات
+CALKER|حاشي الثغرات
+CALKS|يسدّ؛ يحشو الثغرات
+CALLIGRAPHIST|خطّاط
+CALLIGRAPHISTS|خطّاطون
+CALLIPER|فرجار؛ مقياس
+CALLISTHENIC|تمريني؛ رياضي
+CALLISTHENICS|تمارين بدنية
+CALMATIVE|مُهدِّئ
+CALORICALLY|حراريًا
+CALVARY|الجلجثة؛ معاناة
+CALVINISM|الكالفينية
+CALVINISTIC|كالفيني
+CALVINISTICAL|كالفيني
+CALVINISTICALLY|على المذهب الكالفيني
+CALVINISTS|كالفينيون
+CALYPSOES|أغاني الكاليبسو
+CAMION|شاحنة؛ عربة نقل
+CAMOMILES|بابونج
+CAMOUFLAGER|مُموِّه
+CAMPANULA|جرسيات؛ زهرة الجرس
+CAMPHIRE|حناء
+CAMPHORIC|كافوري
+CAMPION|نبات الليخنيس
+CAMPSTOOL|مقعد مخيّمات
+CAMPY|مصطنع؛ متكلّف
+CANADIANS|كنديون
+CANCELATION|إلغاء
+CANCELATIONS|إلغاءات
+CANCELER|مُلغٍ
+CANCELERS|مُلغون
+CANCELLER|مُلغٍ
+CANCELLERS|مُلغون
+CANDLER|فاحص البيض؛ صانع شموع
+CANDOUR|صراحة؛ نزاهة
+CANDYTUFT|نبات الإيبيريس
+CANER|ضارب بالعصا
+CANNER|مُعلِّب
+CANONIC|قانوني؛ كنسي
+CANONIZER|مُقدِّس؛ مُعلِن القداسة
+CANTALOUP|شمّام
+CANUCK|كندي
+CAPITALISTICALLY|على نحو رأسمالي
+CAPITATION|رسم على الرأس؛ ضريبة الرؤوس
+CAPITATIONS|رسوم على الرؤوس
+CAPTAINSHIP|رتبة قبطان؛ قيادة
+CAPTIVATOR|فاتن؛ آسر
+CAPTIVATORS|فاتنون؛ آسرون
+CARAVANSERAIS|خانات القوافل
+CARBONIZER|مُكرْبِن
+CARBONOUS|كربوني
+CARBORUNDUM|كربورندم؛ مادة كاشطة
+CARBURETTOR|مُكرْبِن؛ مغذّي الوقود
+CARBURIZE|يُكرْبِن
+CARCASE|جيفة؛ هيكل
+CARCINOGENESIS|تسرطن
+CARDAMON|هيل
+CARDAMUM|هيل
+CARDINALSHIP|رتبة كاردينال
+CARDSHARPER|غشّاش في الورق
+CAREENER|مائل؛ مُنحرِف
+CARELADEN|مثقل بالهموم
+CARESSER|مُداعِب
+CARESSIVE|مداعِب؛ حنون
+CARESSIVELY|بحنان؛ بمداعبة
+CARIOSITY|تسوّس
+CARMELITE|كرملي
+CARNIVORA|آكلات اللحوم
+CAROLLER|مُرتِّل ترانيم
+CAROUSER|عربيد؛ سكّير
+CARPER|مُنتقِد؛ مُعيب
+CARPETBAGGERY|انتهازية سياسية
+CARRIAGEWAYS|طرق السيارات
+CARROTY|كالجزر؛ محمرّ
+CARROUSEL|دوّامة خيل؛ حزام الحقائب
+CARTLOAD|حمولة عربة
+CASAVA|الكسافا؛ المنيهوت
+CASHABLE|قابل للصرف
+CASTELLATED|مزوّد بأبراج؛ حصين
+CASTELLATION|بناء الحصون
+CATALOGIST|مُفهرِس
+CATALOGUIST|مُفهرِس
+CATARRHAL|نزلي؛ متعلق بالزكام
+CATARRHOUS|نزلي؛ متعلق بالزكام
+CATCHPENNIES|سلع رخيصة براقة
+CATCHPENNY|سلعة رخيصة براقة
+CATCHUP|كاتشب
+CATEGORIC|قطعي؛ مطلق
+CATHARTICAL|مُطهِّر؛ مُسهِّل
+CATHETERIZATION|قسطرة
+CATSUP|كاتشب
+CATTIE|ماشية
+CATTINESS|خبث؛ حقد
+CATTISH|خبيث؛ حقود
+CATTISHLY|بخبث؛ بحقد
+CATTISHNESS|خبث؛ حقد
+CAUCASIANS|قوقازيون
+CAUCASIC|قوقازي
+CAUL|غشاء الجنين؛ شبكة شعر
+CAULKER|حاشي الثغرات
+CAUSELESS|بلا سبب
+CAUSER|مُسبِّب
+CAUSERIE|حديث ودّي؛ مقال خفيف
+CAUSERS|مُسبِّبون
+CAVER|مُستكشِف الكهوف
+CAVIARE|كافيار
+CAYMAN|تمساح الكايمن
+CAYMANS|تماسيح الكايمن
+CAYMEN|تماسيح الكايمن
+CELEBRATOR|مُحتفِل
+CELEBRATORS|مُحتفِلون
+CELEBRATORY|احتفالي
+CELLARAGE|أجرة المخزن؛ مساحة القبو
+CELLULARITY|خلوية
+CELLULOSIC|سليلوزي
+CEMENTER|مُسمِّن؛ مُلصِق
+CENSURER|لائم؛ مُنتقِد
+CENTIMETRES|سنتيمترات
+CENTRALIZER|مُركِّز؛ مُمركِز
+CENTRED|مُركَّز؛ مُتمحور
+CENTRES|مراكز
+CENTRING|تمركُز؛ تمحور
+CEREBELLAR|مخيخي
+CEREMONIALISM|التمسك بالمراسم
+CEREMONIALIST|متمسك بالمراسم
+CERT|أمر مؤكد
+CERTIFICATOR|مُصدِّق
+CERTIFICATORS|مُصدِّقون
+CERTIFIER|مُصدِّق
+CESSPIT|بالوعة
+CESURA|وقفة في الشعر
+CHAFFER|يساوم؛ مساومة
+CHAFFERED|ساوم
+CHAFFERER|مُساوِم
+CHAFFERS|يساوم؛ مساومات
+CHALKPIT|مقلع طباشير
+CHALLENGEABLE|قابل للطعن؛ قابل للتحدي
+CHAMELEONIC|حرباوي؛ متقلّب
+CHAMMY|جلد الشمواه
+CHANCEFUL|محفوف بالمخاطر
+CHANCELLORSHIP|منصب مستشار؛ منصب رئيس جامعة
+CHANGEABILITY|قابلية التغيّر
+CHANGER|مُغيِّر؛ صرّاف
+CHANGERS|مُغيِّرون؛ صرّافون
+CHANTIES|أغاني الملّاحين
+CHANTY|أغنية الملّاحين
+CHAPERON|مرافِقة؛ مُرافِق
+CHAPERONS|مرافِقات؛ مُرافِقون
+CHAPFALLEN|مكتئب؛ منكسر
+CHAPLAINCIES|مناصب كاهن عسكري
+CHAPLAINCY|منصب كاهن عسكري
+CHAPLAINSHIP|منصب كاهن عسكري
+CHAPMAN|بائع جوّال
+CHAPMEN|باعة جوّالون
+CHARABANC|حافلة سياحية قديمة
+CHARACTERIES|رموز؛ كتابة بالرموز
+CHARACTERIZER|مُوصِّف؛ مُميِّز
+CHARACTERLESS|بلا شخصية؛ بلا طابع
+CHARACTERY|كتابة بالرموز
+CHARISM|كاريزما؛ جاذبية قيادية
+CHARISMS|مواهب؛ جاذبيات قيادية
+CHARIVARI|ضجّة؛ جلبة
+CHARLADY|خادمة بالساعة
+CHARLATANIC|دجّالي
+CHARLATANICAL|دجّالي
+CHARLATANISM|دجل؛ شعوذة
+CHARLATANRY|دجل؛ شعوذة
+CHARLESTON|رقصة التشارلستون
+CHARLOCK|خردل بري
+CHARR|سمك الشار
+CHARRS|أسماك الشار
+CHARTERER|مُستأجِر سفينة
+CHARTERERS|مُستأجِرو سفن
+CHASTENER|مُؤدِّب؛ مُهذِّب
+CHASTISABLE|يستحق العقاب
+CHASTISER|مُعاقِب
+CHATTERER|ثرثار
+CHAUFFEUSE|سائقة
+CHAW|يمضغ؛ مضغة
+CHAWED|مضغ
+CHAWS|يمضغ؛ مضغات
+CHEAPENER|مُرخِّص؛ مُنقِص القيمة
+CHEATINGLY|بخداع؛ بغش
+CHEEPER|مُزقزِق
+CHEERER|مُهلِّل؛ مُشجِّع
+CHEERIO|مع السلامة
+CHEQUEBOOKS|دفاتر شيكات
+CHEQUER|يرقّط؛ مربَّع
+CHEQUERED|مرقّط؛ مشبّك
+CHEQUES|شيكات
+CHERISHER|مُعتزّ؛ راعٍ بحنان
+CHERUBICALLY|بشكل ملائكي بريء
+CHETAH|فهد صيّاد
+CHEWER|ماضغ
+CHICKENFEED|علف دجاج؛ مبلغ تافه
+CHICLE|مادة العلكة
+CHICLES|مواد العلكة
+CHICQUER|أكثر أناقة
+CHICQUEST|أكثرها أناقة
+CHIDER|مُوبِّخ
+CHIDINGLY|بتوبيخ
+CHIEFTAINCY|زعامة؛ رئاسة قبيلة
+CHIEFTAINSHIP|زعامة؛ رئاسة قبيلة
+CHIFFONNIER|خزانة أدراج
+CHILEANS|تشيليون
+CHILLI|فلفل حار
+CHIMAERA|كيميرا؛ وهم؛ سمكة الشبح
+CHIMER|قارع الأجراس
+CHIMERIC|وهمي؛ خيالي
+CHIMNEYPIECE|رف المدفأة
+CHIMNEYPIECES|أرفف المدافئ
+CHIMNEYPOT|مدخنة فخارية
+CHIMNEYPOTS|مداخن فخارية
+CHINKY|ضيّق الشقوق؛ مُصدِّع
+CHIPPENDALE|أثاث تشيبنديل
+CHIRPER|مُزقزِق
+CHIRPILY|بمرح؛ بزقزقة
+CHIRPINESS|مرح؛ حيوية
+CHIRPY|مرح؛ مزقزِق
+CHIRRUPY|مرح؛ مزقزِق
+CHISELER|نصّاب؛ نحّات
+CHISELLER|نصّاب؛ نحّات
+CHIVAREE|ضجّة؛ جلبة
+CHIVIED|طارد؛ لاحق
+CHIVIES|يطارد؛ يلاحق
+CHIVY|يطارد؛ يلاحق
+CHLORINATION|كلورة؛ معالجة بالكلور
