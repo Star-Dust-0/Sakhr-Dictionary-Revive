@@ -7,4 +7,4 @@ Windows 10 version 1809 or later / Windows 11 x64.
 Developer: Mohamed Elnaggar
 brought to you by Instinct - https://instinct.com
 
-Source and releases: https://github.com/StarsDust01/Sakhr-Dictionary-Revive
+Source and releases: https://github.com/Star-Dust-0/Sakhr-Dictionary-Revive

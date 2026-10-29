@@ -56,7 +56,7 @@ public partial class AboutPage : Page
 			};
 			http.DefaultRequestHeaders.UserAgent.ParseAdd("SakhrDictionaryRevive/" + CurrentVersion);
 			http.DefaultRequestHeaders.Accept.ParseAdd("application/vnd.github+json");
-			using HttpResponseMessage response = await http.GetAsync("https://api.github.com/repos/StarsDust01/Sakhr-Dictionary-Revive/releases?per_page=1");
+			using HttpResponseMessage response = await http.GetAsync("https://api.github.com/repos/Star-Dust-0/Sakhr-Dictionary-Revive/releases?per_page=1");
 			response.EnsureSuccessStatusCode();
 			using JsonDocument jsonDocument = JsonDocument.Parse(await response.Content.ReadAsStringAsync());
 			string text = "";
@@ -70,7 +70,7 @@ public partial class AboutPage : Page
 			if (Version.TryParse(text, out Version result) && Version.TryParse(CurrentVersion, out Version result2) && result > result2)
 			{
 				UpdateResult.Text = Loc.T("Version " + text + " is available.", "الإصدار " + text + " متاح.");
-				UpdateLink.NavigateUri = new Uri("https://github.com/StarsDust01/Sakhr-Dictionary-Revive/releases/tag/v" + text);
+				UpdateLink.NavigateUri = new Uri("https://github.com/Star-Dust-0/Sakhr-Dictionary-Revive/releases/tag/v" + text);
 				UpdateLink.Visibility = Visibility.Visible;
 			}
 			else

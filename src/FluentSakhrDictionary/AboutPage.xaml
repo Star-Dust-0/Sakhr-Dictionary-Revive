@@ -35,8 +35,8 @@
                     <TextBlock x:Name="LicenseText" Text="License: MIT" FontSize="13"/>
                     <TextBlock x:Name="DataEnText" Text="English-Arabic data: the original 1996 Sakhr dictionary" FontSize="13"/>
                     <TextBlock x:Name="DataArText" Text="Arabic-English data: English Wiktionary via kaikki.org (wiktextract), CC BY-SA 4.0" FontSize="13" TextWrapping="Wrap"/>
-                    <HyperlinkButton x:Name="RepoLink" Content="github.com/StarsDust01/Sakhr-Dictionary-Revive"
-                                     NavigateUri="https://github.com/StarsDust01/Sakhr-Dictionary-Revive"
+                    <HyperlinkButton x:Name="RepoLink" Content="github.com/Star-Dust-0/Sakhr-Dictionary-Revive"
+                                     NavigateUri="https://github.com/Star-Dust-0/Sakhr-Dictionary-Revive"
                                      FontSize="13" Padding="0"/>
                 </StackPanel>
             </Border>

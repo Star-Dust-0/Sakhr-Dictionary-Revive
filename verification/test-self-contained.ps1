@@ -33,14 +33,17 @@ function New-Shortcut($path,$target){
 }
 
 # --- Stage the machine with every earlier installation shape ---
-# 1. The published per-user v1.0.2 build (the real published installer, downloaded anonymously).
-$release=Invoke-RestMethod https://api.github.com/repos/StarsDust01/Sakhr-Dictionary-Revive/releases/latest
-if($release.tag_name -ne 'v1.0.2'){throw "Unexpected published release for migration baseline: $($release.tag_name)"}
-$asset=$release.assets|Where-Object name -eq 'SakhrDictionaryRevive-v1.0.2-installer-win-x64.exe'
-if(!$asset){throw 'Published v1.0.2 installer asset missing'}
-Invoke-WebRequest $asset.browser_download_url -OutFile old-per-user-installer.exe
-$p=Start-Process ./old-per-user-installer.exe -ArgumentList '/VERYSILENT','/SUPPRESSMSGBOXES','/NORESTART' -Wait -PassThru
-if($p.ExitCode -ne 0){throw "Baseline per-user install failed: $($p.ExitCode)"}
+# The published per-user v1.0.2 installer was hosted on the suspended StarsDust01 account and is
+# no longer downloadable, so stage an equivalent per-user shape locally: app folder, HKCU
+# uninstall registration (pointing at a missing uninstaller, as on a partially removed machine)
+# and the (Self-contained) user shortcuts. The installer migration must clear all of it.
+New-Item -ItemType Directory -Force $perUserRoot|Out-Null
+'simulated per-user app payload'|Set-Content (Join-Path $perUserRoot 'SakhrDictionaryRevive.exe')
+New-Item -Path $hkcuKey -Force|Out-Null
+Set-ItemProperty $hkcuKey -Name DisplayName -Value 'Sakhr Dictionary Revive (Self-contained)'
+Set-ItemProperty $hkcuKey -Name UninstallString -Value "`"$perUserRoot\unins000.exe`""
+New-Shortcut (Join-Path ([Environment]::GetFolderPath('Desktop')) 'Sakhr Dictionary Revive (Self-contained).lnk') "$perUserRoot\SakhrDictionaryRevive.exe"
+New-Shortcut (Join-Path ([Environment]::GetFolderPath('Programs')) 'Sakhr Dictionary Revive (Self-contained).lnk') "$perUserRoot\SakhrDictionaryRevive.exe"
 if(!(Test-Path "$perUserRoot/SakhrDictionaryRevive.exe")){throw 'Baseline per-user install missing'}
 if(!(Test-Path $hkcuKey)){throw 'Baseline per-user registry entry missing'}
 # Personal settings that must survive migration.

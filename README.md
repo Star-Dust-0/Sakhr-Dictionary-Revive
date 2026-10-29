@@ -52,7 +52,7 @@ capabilities the original program never had.
 Three Windows x64 packages: portable ZIP, installer, and full offline ZIP containing the installer plus optional Microsoft runtime installers. Runtime files are bundled with the app, so no separate runtime installation is needed. The installer requires administrator rights and installs into Program Files, replacing any earlier installation. Choose the package from the release page below.
 
 ```text
-https://github.com/StarsDust01/Sakhr-Dictionary-Revive/releases
+https://github.com/Star-Dust-0/Sakhr-Dictionary-Revive/releases
 ```
 
 ## The original
@@ -106,4 +106,4 @@ MIT
 
 ## Repository
 
-[github.com/StarsDust01/Sakhr-Dictionary-Revive](https://github.com/StarsDust01/Sakhr-Dictionary-Revive)
+[github.com/Star-Dust-0/Sakhr-Dictionary-Revive](https://github.com/Star-Dust-0/Sakhr-Dictionary-Revive)

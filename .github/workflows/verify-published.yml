@@ -14,7 +14,7 @@ jobs:
       - name: Download exact published portable and verify digest
         shell: pwsh
         run: |
-          $release=Invoke-RestMethod https://api.github.com/repos/StarsDust01/Sakhr-Dictionary-Revive/releases/latest
+          $release=Invoke-RestMethod https://api.github.com/repos/Star-Dust-0/Sakhr-Dictionary-Revive/releases/latest
           if($release.tag_name -ne 'v1.0.3'){throw 'Unexpected latest release'}
           $asset=$release.assets|Where-Object name -eq 'SakhrDictionaryRevive-v1.0.3-portable-win-x64.zip'
           Invoke-WebRequest $asset.browser_download_url -OutFile portable.zip
